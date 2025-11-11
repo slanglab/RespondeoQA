@@ -1,0 +1,17 @@
+Organize the following questions and answers into a structured json output. I will provide the values for some fields, but you must fill out the remaining fields. 
+Assign each question its question_id by using the question_id prefix given. Append the two numbers assigned to the question in the answer key. Make sure each question is assigned a unique question id.
+Do not assign a difficulty level yourself. If the given difficulty is unknown, assign "unknown".
+Do not edit any fields that I provide.
+If a question is asked in English, you should assign the question_language as English. This includes who, what, when, where, why, and how questions. This also includes instructions, such as translate, give a synonym, etc. Only assign Latin if the question itself is asked in Latin, not only if Latin words are used in the question.
+If the answer is a non-English name, assign the answer_language as Latin. Try to assign the language used in the majority of the answer, or in the most important part of the answer. Only label the language as "both" if the question specifically asked for an answer in both languages.
+To determine the correctness logic, first determine if there are multiple possible answers in the "answers" field. If there's only one possible short answer, or this is a multiple choice question with only one answer, set the correctness logic to "na", since this is a single choice question. If there are multiple possible answers, consider what the question is asking. If the question is asking for a single answer, set the correctness logic to "any". If the question requires all of the gold answers to be correct, set the correctness logic to "all". If the question requires a certain number between 1 and the total number of gold answers to be correct (not inclusive), set the correctness logic to "n_of", and set the n_required field to the number of gold answers that must be correct.
+Above the questions will be instructions on how to answer the questions. When you construct the question text, make sure to incorporate these instructions into each question, so that the qustions can be understood on their own.
+
+Source name: {}
+Source year: {}
+Difficulty: {}
+question_id prefix: {}
+
+questions: {}
+
+answer key: {}

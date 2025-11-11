@@ -1,0 +1,17 @@
+Organize the following questions and answers into a structured json output. I will provide the values for some fields, but you must fill out the remaining fields. 
+Do not assign a difficulty level yourself. If the given difficulty is unknown, assign "unknown".
+Do not edit any fields that I provide.
+If a question is asked in English, you should assign the question_language as English. This includes who, what, when, where, why, and how questions. This also includes instructions, such as translate, give a synonym, etc. Only assign Latin if the question itself is asked in Latin, not only if Latin words are used in the question.
+If the answer is a non-English name, assign the answer_language as Latin. Try to assign the language used in the majority of the answer, or in the most important part of the answer. Only label the language as "both" if the question specifically asked for an answer in both languages.
+To determine the correctness logic, first determine if there are multiple possible answers in the "answers" field. If there's only one possible short answer, or this is a multiple choice question with only one answer, set the correctness logic to "na", since this is a single choice question. If there are multiple possible answers, consider what the question is asking. If the question is asking for a single answer, set the correctness logic to "any". If the question requires all of the gold answers to be correct, set the correctness logic to "all". If the question requires a certain number between 1 and the total number of gold answers to be correct (not inclusive), set the correctness logic to "n_of", and set the n_required field to the number of gold answers that must be correct.
+If a passage_id is given, then this QuestionContent type must be set to "reading_comprehension".
+
+Source name: {}
+Source year: {}
+Difficulty: {}
+question_id: {}
+question: {}
+question_format: multiple_choice
+multiple_choice_options: {}
+answers: {}
+

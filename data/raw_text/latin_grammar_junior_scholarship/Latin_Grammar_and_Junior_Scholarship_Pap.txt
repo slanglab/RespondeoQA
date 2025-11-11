@@ -1,0 +1,2727 @@
+This is a reproduction of a library book that was digitized
+by Google as part of an ongoing effort to preserve the
+information in books and make it universally accessible.
+
+Google™ books
+
+https://books.google.com
+
+LATIN GRAMMAR
+AND
+JUNIOR SCHOLARSHIP
+PAPERS
+
+_J. H. RAVEN_
+
+RIVINGTONS
+VINGTON'S MATHEMATICAL SERIES
+
+By J. HAMBLIN SMITH, M.A.,
+GONVILLE AND CAIUS COLLEGE, AND LATE LECTURER AT ST. PETER'S
+COLLEGE, CAMBRIDGE,
+
+Arithmetic. 3s. 6d. A KEY, 9s.
+Elementary Algebra. 3s. Without Answers, 2s. 6d.
+A KEY, 9s.
+
+Exercises on Algebra. 2s. 6d.
+[Copies may be had without the Answers.]
+
+Elementary Trigonometry. 4s. 6d. A KEY, 7s. 6d.
+Elements of Geometry.
+Containing Books 1 to 6, and portions of Books 11 and 12 of
+EUCLID, with Exercises and Notes. 3s. 6d. A KEY, 8s. 6d.
+Books 1 and 2, 1s. 6d., may be had separately.
+
+Elementary Statics. 3s.  } A KEY, 6s.
+Elementary Hydrostatics. 3s. }
+Book of Enunciations 
+FOR HAMBLIN SMITH'S GEOMETRY, ALGEBRA, TRIGONO-
+METRY, STATICS, AND HYDROSTATICS. 1s.
+
+An Introduction to the Study of Heat. 3s.
+
+By E. J. GROSS, M.A.,
+FELLOW OF GONVILLE AND CAIUS COLLEGE, CAMBRIDGE.
+Algebra. Part II. 8s. 6d.
+Kinematics and Kinetics. 5s. 6d.
+
+By G. RICHARDSON, M.A.,
+ASSISTANT MASTER AT WINCHESTER COLLEGE.
+Geometrical Conic Sections. 4s. 6d.
+
+
+oo Place, Pall Mall, London.
+
+ENGLISH SCHOOL CLASSICS
+
+EDITED BY FRANCIS STORR, B.A.,
+CHIEF MASTER OF MODERN SUBJECTS IN MERCHANT TAYLORS' SCHOOL.
+
+THOMSON'S SEASONS: Winter.
+With an Introduction to the Series. By the Rev. J. F. BRIGHT, M.A. 1s.
+COWPER'S TASK.
+By FRANCIS STORR, B.A. 2s.; or in Three Parts, 9d. each.
+COWPER'S SIMPLE POEMS.
+By FRANCIS STORR, B.A. 1s.
+SCOTT'S LAY OF THE LAST MINSTREL.
+By J. SURTEES PHILLPOTTS, M.A., Head Master of Bedford School. 2s. 6d.;
+or in Four Parts, 9d. each.
+SCOTT'S LADY OF THE LAKE.
+By R. W. TAYLOR, M.A., Head Master of Kelly College, Tavistock. 2s.
+or in Three Parts, 9d. each.
+SCOTT'S MARMION.
+By F. S. ARNOLD, M.A., Assistant Master at Bedford School.
+NOTES TO SCOTT'S WAVERLEY.
+By H. W. EVE, M.A., Head Master of University College School, London.
+1s.; WAVERLEY AND NOTES, 2s. 6d.
+BACON'S ESSAYS. Complete Edition.
+By FRANCIS STORR, B.A.
+TWENTY OF BACON'S ESSAYS.
+By FRANCIS STORR, B.A. 1s.
+SIMPLE POEMS.
+By W. E. MULLINS, M.A., Assistant Master at Marlborough College. 8d.
+SELECTIONS FROM WORDSWORTH'S POEMS.
+By H. H. TURNER, B.A., late Scholar of Trinity College, Cambridge. 1s.
+WORDSWORTH'S EXCURSION: The Wanderer.
+By H. H. TURNER, B.A. 1s.
+MILTON'S PARADISE LOST.
+By FRANCIS STORR, B.A. Book I., 9d. Book II., 9d.
+MILTON'S L'ALLEGRO, IL PENSEROSO, AND LYCIDAS.
+By EDWARD STORR, M.A., late Scholar of New College, Oxford. 1s.
+SELECTIONS FROM THE SPECTATOR.
+By OSMUND AIRY, M.A., late Assistant Master at Wellington College. 1s.
+BROWNE'S RELIGIO MEDICI.
+By W. P. SMITH, M.A., Assistant Master at Winchester College. 1s.
+GOLDSMITH'S TRAVELLER AND DESERTED VILLAGE.
+By C. SANKEY, M.A., Head Master of Bury St. Edmund's Grammar
+School. 1s.
+EXTRACTS from GOLDSMITH'S VICAR OF WAKEFIELD.
+By C. SANKEY, M.A. 1s.
+POEMS SELECTED from the WORKS OF ROBERT BURNS.
+By A. M. BELL, M.A., Balliol College, Oxford. 2s.
+MACAULAY'S ESSAYS:
+MOORE'S LIFE OF BYRON. By FRANCIS STORR, B.A. 9d.
+BOSWELL'S LIFE OF JOHNSON. By FRANCIS STORR, B.A. 9d.
+HALLAM'S CONSTITUTIONAL HISTORY. By H. F. BOYD, late
+Scholar of Brasenose College, Oxford. 1s.
+SOUTHEY'S LIFE OF NELSON.
+By W. E. MULLINS, M.A. 2s. 6d.
+GRAY'S POEMS. SELECTION FROM LETTERS, with LIFE
+by JOHNSON. By FRANCIS STORR, B.A. 1s.
+
+Waterloo Place, Pall Mall, London.
+
+Американска доброволна работа
+
+В България се намират около 40 американци, доброволци, които са дошли по собствено желание и работят в различни поприща на обществено-полезния живот.
+IV. Българско-американски културни взаимоотношения.
+За укрепването на културните ни взаимоотношения с Америка съдействуват много добре американските колежи в София и Самоков, Американската мисия, Y.M.C.A. и Y.W.C.A., както и American Board.
+Между американците и българите, има най-тесни отношения; американците най-добре ни познават и са съпричастни към нашето национално развитие.
+LATIN GRAMMAR
+AND
+JUNIOR SCHOLARSHIP
+PAPERS
+
+BY THE REV.
+J. H. RAVEN, M.A.
+HEADMASTER OF THE FAUCONBERGE SCHOOL, BECCLES, SUFFOLK
+
+SECOND EDITION
+
+RIVINGTONS
+WATERLOO PLACE, LONDON
+MDCCCLXXXIV
+BODLEIAN LIBRARY
+MAR
+OXFORD
+PREFATORY NOTE.
+
+THESE papers are specially designed to supply lessons, written or _vivâ voce_, for boys who have pretty well mastered the Public School Latin Primer, or Allen's Latin Grammar, but have yet to make sure of their ground before they can use more advanced grammars as books of reference. Most of the papers, it is thought, may be done, and revised _vivâ voce_, in three quarters of an hour. They may be shortened in most instances by omitting specified questions or parts of questions. The harder ones are enclosed between square brackets [...], the easier between asterisks *  •. No practical teacher will object to certain questions being repeated.
+
+J. H. R
+
+ST. MARY'S, BECCLES,
+September, 1883.
+
+Digitized by Google
+CONTENTS.
+Nouns
+Genders
+Adjectives
+Numerals and Calendar
+Money and Weights
+Pronouns
+Verbs
+Adverbs
+Conjunctions
+Prepositions
+Interjections
+Word-Formation
+Syntax of Subject, Object, Infinitive, Oratio Obliqua, and Tenses
+Syntax of Accusative
+Genitive
+Dative
+Ablative
+Abbreviations
+Figures of Speech
+
+CONTENTS.
+Prosody
+Miscellaneous
+APPENDIX—
+I. Rome
+II. Literature
+III. Mythology
+IV., V. Antiquities
+
+1.
+
+1. What nouns of decl. 1 and 2 make gen. plur. in -ûm?
+
+2. Decline—in sing.: Æneas, Cybele, respublica, deus, filius, pelagus, jusjurandum; in plur.: dea, Atrides, deus, faber, sestertius.
+
+3. Give the gender, meaning, and gen. sing. of—lis, fax, caput, auceps, accipiter, iter, supellex, grex, requies, simultas, mos, as, aes, livor, nix, os (2), frons (2), bidens (2), acus, dies, virus.
+
+4. What are the locatives of—humus, Roma, Athenae, bellum, Gades?
+
+5. Explain "heteroclite" and "heterogeneous;" and give two examples of nouns of each kind.
+
+6. Decline—domus; and give Latin for—"at home," "from home," "(to) home."
+
+7. Form patronymics, masc. and fem., from—Nereus, Thestius; and diminutives from—rivus, pars, homo, filius, flos, patera.
+
+8. Give the fem. of—Thrax, Tros, gallus, taurus, aries.
+
+9. Show by an example of each the force of the terminations -ile, -etum, -tor, -trix, -arium, -ulum.
+
+10. Distinguish the meanings of—vires, viros; carcer, carceres; lustrum, lustra; homo, vir; aedes (sing.), aedes (plur.); ludus, ludi; pedēs, pedes; mānibus, mănĭbus; nummus, pecunia; leporis, lepōris.
+LATIN GRAMMAR AND
+
+2.
+
+1. What parisyllabic nouns of decl. 3 make gen. plur. in -*um* for -*ium*?
+2. Decline, giving all forms used—in sing.: *navis, requies, laurus, tussis*; in plur.: *jugerum, quercus, mensis, civitas*.
+3. Give the gender, meaning, and gen. sing. of—*jecur, plebs, plebes, femur, crambe, sidus, mas, tus*.
+4. Give the acc. sing. of—*aër, aether, Thisbe, Delos, Peleus, vis*.
+5. What other forms are used for—*praesepe, penus, tapetum, vespere, nocte*?
+6. Give instances of nouns not following the usual rules of flexion to avoid confusion with others.
+7. Why does *pater* make gen. plur. *patrum*?
+8. What imparisyllabics of decl. 3 make gen. plur. in -*ium*?
+9. Distinguish—*operā, operă* (plur.), *operae*; *foenum, foenus*; *funda, fundus*; *amnis, rivus*; *mos, mores*.
+10. Show by an example the force of each of the terminations -*sor, -mentum, -io, -ium, -tudo, -ulus, -ades, -eis*.
+JUNIOR SCHOLARSHIP PAPERS.
+
+3.
+
+1. What words of decl. 4 make dat. and abl. plur. in -ubus? Give a reason in any instance where you can.
+2. What are the words of decl. 5 that have the increasing cases in plural?
+3. Give the gen. sing., gender, and meaning of—Sappho, caro, paries, dedecus, vulgus, abies.
+4. Give, with meanings, six imparisyllabic words of decl. 3 in -ūs, with gen. sing. of each.
+5. Give four words of decl. 1 formed from masc. of decl. 2.
+6. What old forms are found in the gen. sing. of decl. 1 for -ae? Give instances.
+7. Translate—Vox est femininum. Does it need correction?
+8. Give the fem. forms of—leo, asinus, equus, Cres, Laco.
+9. Distinguish—clavus, clava, clavis; decoris, decoris; féminĭs, fēminis; mores, morae; partibus, partubus; gener, genus, genu; res, reus; avis, avis; palma, palmes; castrum, castra.
+10. Give the meanings of—sponte, temperi, forte, injussu, noctu, ambage, pondo, compede, preces, exsequiae, indutiae, inferiae.
+11. What substantives govern the ablative?
+
+LATIN GRAMMAR AND
+
+4.
+
+1. Name the peculiarities in—*rastrum*, *Tartarus*, *sibilus*, *vas* (neut.), *locus*, *apis*, *impetus*, *caelum*.
+
+2. What words of decl. 3 make acc. sing. in -*im*?
+
+3. Why are the names of trees and cities generally feminine?
+
+4. Give the gen. sing., gender, and meaning of—*pondus*, *vannus*, *socer*, *socrus*, *anus*, *ramus*, *remus*, *arbor*, *cor*, *pecten*, *sal*, *mel*, *far*, *mica*.
+
+5. Decline—in sing.: *Jupiter*, *Venus*, *Cupido*, *ros*; in plur.: *bos*, *rete*, *terrigena*, *caelicola*, *rus*.
+
+6. Give the cases used in the sing. of the words from which come—*preces*, *opes*, *dapes*, *vires*, *fruges*.
+
+7. Distinguish—*sal*, *sales*; *mens*, *mensa*, *mensis*; *aetas*, *aestas*, *aestus*; *eques*, *equus*, *equuleus*; *ovis*, *ōvis*; *pecus*, *pecus*; *vitis*, *vitis*; *cervus*, *cervix*.
+
+8. What alternative spelling is there for -*es* in acc. plur. decl. 3?
+
+9. Give all meanings of the nouns—*gallus*, *jugum*, *sinus*, *canis*, *manus*, *tempora*, *acies*, *robur*, *pietas*, *gemma*, *miles*.
+
+10. Put into Latin in two ways—"There is need (*opus*) to me of a horse."
+
+[11. Derive and give the meanings of—*pomoerium*, *contio*, *vecordia*, *solstitium*, *tripudium*.]
+
+JUNIOR SCHOLARSHIP PAPERS.
+
+5.
+
+1. Give examples of neut. adjectives used as substan-
+tives.
+2. Explain "proper," "concrete," "abstract," "collec-
+tive," "epicene," as applied to nouns, with an
+example of each.
+3. Give the gen. sing., gender, and meaning of—arx,
+nux, radix, senex, hiemps, sacerdos, cinis, seges, obses,
+fur, caput, calcar, hirundo, hirudo, lac, crus, crux.
+4. Give the acc. sing. of—heros, poësis, Orpheus; and the
+acc. plur. or—heros, Troas, lampas.
+5. Give the diminutives of—cornu, liber, lapis; and give
+the substantives expressing the quality of—fortis,
+bonus, justus, audax, sapiens.
+6. Distinguish—porta, portus; opera, operae; finis, fines;
+littera, litterae; opem, opes; auxilium, auxilia ;
+merx, merces; pōpulus, pŏpulus; caeles, caelebs ;
+armus, arma; dolus, dolor; odor, nidor, nidus.
+7. Decline—in sing.: Tiberis, vis, fames, vicem, lues,
+mane, fors; in plur.: senex, jocus, jugerum, vas
+(vessel), caeles.
+8. What other forms are used for—vesper, requiete,
+jecoris, Jupiter?
+9. What contractions are used in poetry in the words—
+consilium, parens, metus (4th), fides?
+10. What indeclinables mean—"right," "wrong," "like-
+ness," "necessity"?
+LATIN GRAMMAR AND
+
+6.
+
+1. Give the Latin for—"gold," "silver," "copper," "lead," "iron," "steel."
+2. Distinguish—*animus*, *anima*; *virgo*, *virga*; *mola*, *moles*; *taeda*, *taedium*; *hamus*, *humus*; *insula*, *infula*.
+3. Give the gen. sing. (marking quantities of penults) of—*leo*, *virgo*, *Cato*, *Apollo*, *Macedo*, *multitudo*, *ferrugo*, *temo*, *ordo*, *bubo*, *Cupido*.
+4. Parse in as many ways as possible—*junctura*, *curvatura*, *caesura*, *repulsa*.
+5. Decline in sing.—*Pelion*, *Pleias*, *Theseis*, *cubile*.
+6. Give the name of each month used as a substantive.
+7. Distinguish—*balneum*, *balneae*; *epulum*, *epulae*; *jugera*, *juga*; *impedimentum*, *impedimenta*; *culmen*, *culmus*.
+8. Give the gender and meaning of—*ilia*, *majores*, *primordia*, *primores*, *casses*, *cassis*, *Floralia*, *Matronalia*.
+9. Give examples of nouns used only in one case, with meanings.
+10. What are the cases most frequently used in Latin nouns of Greek form?
+11. Give examples of Latin and Greek inflexions formed from the same noun.
+JUNIOR SCHOLARSHIP PAPERS.
+
+7.
+
+1. What words of decl. 3 make acc. sing. in -im or -em?
+What other case has two forms in these?
+2. What words of decl. 3 have -em in acc. sing.; -e or -i in abl. sing.?
+3. State to what declension each of the following nouns belongs, and give meaning of each:—fremitus, poëma, meridies, passus, accipiter, passer, imber, faber, vulnus, susurrus, vagitus.
+4. Distinguish—bacca, baccar; mares, maria; latex, lātus, later; testa, testis; mos, mus; mergus, merges; linum, linea.
+5. Give all the meanings of—aequor, marmor, testudo, examen, pupilla.
+[6. Give all words, masc. and fem., for "servant," noting differences of meaning.]
+7. Give the Latin for—"north wind," "south wind," "east wind," "west wind;" and the proper words for "an open sea," "a strait," "an ocean," "a large river," "a stream," "a hill," "a ridge," "a forest," "a grove," "a glade."
+8. The names of what deities are used for—"open sky," "wine," "the sun," "the moon," "sea," "fire"? and by what figure?
+9. Give the meanings of—lar, Lares, Penates, Imagines, favilla, cinis, pruna, pulvinar, supplicatio, Kalendae, Nonae, Idus.
+10. Decline—manus, Idus.
+LATIN GRAMMAR AND
+
+8.
+
+1. Give the diminutives of—*filia*, *puer*, *animus*, *verna*, *lacrima*, *caput*; and diminutive nouns meaning—"a kiss," "twilight," "a bundle," "a handful," "a pebble," "a spark," "a short (legal) form."
+
+2. Give the Latin nouns meaning—"marrow," "market day," "mother-in-law," "son-in-law," "daughter-in-law," "niece;" and the meaning of—*bidental*, *lacunar*, *malleus*, *trabea*.
+
+3. Give other spelling for—*sucus*, *querela*, *hedera*.
+
+4. Distinguish—*apium, apum*; *musca, muscus*; *pālus, pălus*; *pavo, pavor*; *munia, moenia, munera*; *vector, vectis*.
+
+5. Give all meanings of the substantives—*pensum*, *palma*, *flamen*, *tibia*, *nervus*, *coma*, *lumina*, *pignus*.
+
+6. Give other forms of—*exemplum*, *lepor*, *arbor*, *multa*, *noxa*, *luxuria*, *tegmen*.
+
+7. Give the Latin for—"oak," "holm-oak," "ash," "poplar," "fir," "plane," "elm," "beech," "birch," "alder," "willow."
+
+8. Give the gen. sing., gender, meaning, of—*vectigal*, *ancora*, *jactura*, *hinnitus*, *cacumen*, *propago*, *petitor*, *transfuga*, *fidicen*, *cicatrix*; and mark the quantities of the penults in the nom.
+
+9. Give the meanings of—*rosarium*, *dumetum*, *bubile*, *collegium*, *armentum*, *armarium*, *jumentum*, *sacerdotium*.
+
+10. What substantives are formed from *alo* (to nourish)?
+
+JUNIOR SCHOLARSHIP PAPERS.
+
+9.
+
+1. Nouns of what meanings are by rule masculine?
+2. Give the gender of—Tiberis, Styx, Allia, Soracte, Tempe, Alpes, Ida, Fura, mensis, amnis, mons.
+3. Nouns of what meanings are by rule feminine?
+4. Give the gender of—Cyprus, Brundisium, Delos, Pergama, Tibur, Narbo, Sulmo, mālus, Praeneste, ăcer, dumus, pirus, siler, acanthus, sentis, vepres, suber, ficus.
+5. [How is the gender of a plant or shrub determined?] Give the gender of—papaver, caulis, melilotos, cytisus, cucumis, carex, cicer, piper, ador, rumex, amaracus, tūber.
+6. What nouns are neuter without exception?
+7. Give the gender or the more usual gender of—anguis, sacerdos, dama, incola, homo, parens, custos, anser, amans, auriga, vates, conjux, bos, grus, tigris, antistes, ales, praepes, sus.
+8. What words may be added to vulpes to show that the male is meant? and what to bos to show that the female is meant?
+9. Give examples of epicene nouns.
+10. What are the terminations for which there are no exceptions to the rules for genders?
+
+LATIN GRAMMAR AND
+
+10.
+
+1. Give six nouns in -*a* of the 1st decl. masc. *What are the masc. terminations of this decl.?*
+2. Give the gender of the following words of decl. 2:— *sapphirus, Arctos, pampinus, virus, faber, pelagus, murus, balanus, vulgus.*
+3. What are the masc. terminations of decl. 3?
+4. Give the exceptions to those in -*o*.
+5. Give the gender of—*cupido, natio, vespertilio, ternio, legio, regio, quaternio, scipio, papilio, echo, margo, grando, unio, caro, septentrio, stellio, sortitio.*
+6. Distinguish between *optio* masc. and *optio* fem.
+7. Give the feminines and neuters in -*or, -os, -er, -es* increasing.
+8. What are the fem. terminations of decl. 3?
+9. Give eight words in -*is* masc., four fem., four common.
+10. Give the masc. in -*as* of decl. 3.
+11. Give the gender of—*mons, mens, fons, dens, pons, hydrops, nex, grex, obex, supellex, pumex, calix, onyx, chalybs, adeps, stirps, verres, bidens*(2), *pecus* (-*udis*), *acinaces, semis, quadrans, faex.*
+
+JUNIOR SCHOLARSHIP PAPERS.
+
+11.
+
+1. What are the neut. terminations of decl. 3?
+2. Give the gender of—tus, fur, lepus, poëma, lac, Lemures, mus, tripus, sal, jubar, pugil, pecus (-oris), lar, gramen, Hymen, lien, attagen, sindon, Halcyon, pecten, pectus, turtur, robur, rete, oscen.
+3. Give the gender of virtūs (-ūtis), and give four other words that are similar in form and gender.
+4. Give rule and all exceptions for gender of decl. 4.
+5. Give rule and exceptions for words of decl. 5.
+6. What are the genders of—specus, dies (an ordinary day), dies (a particular day), dies (a period)? Is dies fastae or dies fasti correct?
+7. Suggest reasons for genders of—navis, arbor, sol, pecus (fem.), pecus (neut.), virtus.
+[8. Give examples of words of which the gender is due to form in spite of meaning.]
+[9. Give examples of words of which the gender is due to meaning in spite of form.]
+10. Is it an advantage or disadvantage to a language to vary as Latin does in the matter of gender? and why?
+LATIN GRAMMAR AND
+
+12.
+
+1. Give the abl. sing. of—tristis, melior, acer, celer, vetus, ingens, alipes, reses, pauper.
+*2. Give the gen. sing. of—tantus, totus, solus, quantus, ullus, uter, alter, unus.*
+3. Decline—in sing.: alius, satur, degener, compos; in plur.: armiger, alacer, redux, superstes.
+4. Compare—bonus, malus, nequam, dives, providus, maturus, egenus, strenuus, pius, senex, juvenis, frugi, habilis, gracilis.
+5. Give examples of unus used in the plural.
+*6. Decline in agreement the Latin for—"better wine," "a sharp (acer) needle," "another thing (res)."*
+7. *Decline—duo, tres, millia.* Decline the Latin for "a mile."
+8. Distinguish—lēvis, levis; callidus, calidus; gnarus, gnavus; candidus, albus; expers, expertus.
+9. What case-constructions follow—similis, peritus, dignus, affinis, prodigus, particeps, proprius, extorris, liber?
+10. Give examples to show the force of the adjectival endings -eus, -lentus, -cundus, -osus, -ensis, -bilis, -ax, -silis.
+11. Give the Latin for—"up hill;" "down stream;" "I have a few children;" "I have but few children."
+JUNIOR SCHOLARSHIP PAPERS.
+
+13.
+1. Give the gen. sing. and meaning of—anceps, bicorpor, iners, deses, ales, saluber, sinister, frugifer, lacer, locuples, dexter, hebes, teres, duplex.
+2. Give all the meanings of—secundus, altus, impotens, caducus, sublustris, invisus.
+3. Give strengthened forms (by means of prefix) of—gravis, multus ; and show by examples the force of—semi-, in-, ne-, sub-, prefixed to adjectives.
+4. *Decline plus in plur.* How is pluris used? Give examples.
+5. Compare—*parvus, magnus, vetus, facilis, pulcer, miser; and* the adjectives from—de, prae, intra, infra, ultra, post, ex, prope, citra.
+6. Give examples of diminutive adjectives.
+7. Form the adjectives from—pedes, hostis, auris, nimis, aurum, argentum, porcus, seco, findo, pendo.
+8. Give the Latin for—"victorious arms," "lame of one leg," "a pitched battle," "an undecided battle."
+9. What distinction exists in the inflexion of a present participle, according as it is used in abl. absolute and as an adjective?
+10. Give the meanings and derivations of—lucifer, egregius, sollers, sonipes, simplex, letalis, prudens, humanus, humilis, humatus, praeceps, extorris, sollennis.
+LATIN GRAMMAR AND
+
+14.
+
+*1. What adjectives make superl. in -illimus ?*
+2. Compare—*benevolus*, *dexter*, *sinister*, *potis*; and the adjectives from—*super*, *post*, *infra*.
+3. What case-construction follows comparatives, and when only? Put into Latin, in as many ways as you can—(1) "You are older than he." (2) "You are dearer to him than to me."
+4. Mention four adjectives not compared.
+5. Give the gen. sing. and meaning of—*trux*, *solus*, *equester*, *pomifer*, *alius*, *uterque*, *alteruter*.
+6. Give the Latin for—(1) "How great? . . . so great . . . as . . . of some size." (2) "Of what sort? . . . such . . . as . . . of what sort soever." (3) "How many? . . . so many . . . as . . . some few . . . how many times? . . . so many times."
+[7. Put into Latin—"This is my house, such as it is."]
+8. Decline in sing.—*puber*, *memor*, *sospes*, *dis*, *quadrupes*, *vigil*, *uber*; giving meanings.
+9. Explain the abbreviation "etc.;" and state where the adjective in it is defective.
+10. What terminations in *-us* make comp. and superl. in *-entior*, *-entissimus*? Give examples.
+11. Put into Latin—"He is rich rather than happy."
+JUNIOR SCHOLARSHIP PAPERS.
+
+15.
+
+1. Distinguish between the meanings of the following, as substantives and adjectives:—*pullus*, *uber*, *acer*, *bellum*, *comes*, *decori*, *celeres*, *securis*, *forte*, *fetus*; *foedus*, *jugis*, *nota*, *nubila*.
+
+2. Translate—*Nihil mortalibus ardui est*; and comment on the construction of *ardui*.
+
+3. Give the meanings of the adjectives—*cassus*, *apricus*, *invitus*, *fortuitus*, *lugubris*, *expeditus*, *peritus*, *medicus*, *maledicus*, *malesanus*, *malefidus*, *malevolus*; and mark the quantities of the penults.
+
+4. Put into Latin, using adjectives—"I came gladly;" "I came unwillingly;" "He came without my knowledge;" "It is easily done;" "I did it unwittingly."
+
+5. Suggest a reason for the fact that the commonest of adjectives (e.g. "good," "bad") are irregularly compared.
+
+6. Give the adjectives for—"golden," "silver," "leaden," "iron," "copper," "steel."
+
+7. Give the adjectives from—*quercus*, *fagus*, *fraxinus*, *ignis*, *palus*, *flumen*, *mons*, *canis*, *loquor*.
+
+[8. Distinguish—*omnes*, *universi*, *cuncti*; with an example of the use of each.]
+
+[9. Give the adjectives, with meanings, from the roots—*fe-*, *ac-*, *cel-* (high), *vor-*, *plec-*.]
+
+10. What part of speech is *potens*—(1) by formation; (2) by use?
+LATIN GRAMMAR AND
+
+16.
+
+1. Give the meanings and derivations of—*inimicus*, *furtivus*, *finitimus*, *quadrupes*, *peregrinus*; and mark the quantities of the penults.
+2. How do present participles vary in flexion?
+3. Explain "synesis;" and give an example of it affecting agreement.
+4. Translate and comment on—(1) *Triste lupus stabulis, maturis frugibus imbres.* (2) *Mors omnium rerum extremum est.* (3) *Honestum praetulit utili.*
+5. Explain "prolepsis;" and point out what is virtually the verb in each of the following:—(1) "Winds that blow the poplar white" (2) "Strikes him dead for thine and thee." (3) *Osiris primus aratra fecit.* (4) *Paulatimque anima caluerunt mollia saxa.* (5) *Premit placida aequora pontus.*
+6. Distinguish between—*primum venit*; *primus vēnit*; *semel venit*; *quondam venit*; *simul venit*.
+7. Translate—(1) *Æneas se matutinus agebat.* (2) *Sagitta celeres transilit umbras.* Of what figure is (2) an example?
+[8. Comment on—*Diana comitum pulcherrima*.]
+[9. Explain the quasi-superlative in—*Sequimur te, sancte deorum*.]
+10. Give the adjectives meaning—"on the right hand," "on the left hand."
+JUNIOR SCHOLARSHIP PAPERS.
+
+17.
+*1. What questions are answered by cardinals; ordinals; distributives; multiplicatives; numeral adverbs ?*
+2. Give the Roman symbols for—9, 11, 14, 40, 50, 80, 90, 100, 200, 500, 1000.
+3. Put into Roman symbols—1883, 205, 968, 5000, 451.
+4. Write in Latin words—8, 10th, 20 each, 40 times, 70th, 1 apiece, 6th, 100 times, 200, 50, twofold, threefold, a hundredfold.
+5. Explain the symbols—IƆ., CIƆ., IƆƆ., CCIƆƆ.
+6. Give the numbers in Latin words, from 2 to 5 inclusive, in *cardinals, ordinals,* distributives, and numeral adverbs.
+7. Give the Latin words for—1000 men, 2000 men, 24 (in two ways), forty-fifth, eight hundred and sixty-first.
+8. Express in classical style—B.C. 306.
+9. Give the Latin for—two-sevenths, six-sevenths, half a quarter, three quarters, two-thirds.
+10. Put into Latin—(1) "They have one horse each;" (2) "one camp;" (3) "two letters" (of the alphabet); (4) "two letters" (i.e. epistles).
+11. After what comparative words may quàm be omitted before numerals? Give an example of each.
+[12. Give the meaning of the adjective decumanus. Mark the penult. Mention similar words.]
+CONTENTS.
+Prosody
+Miscellaneous
+APPENDIX—
+ I. Rome
+ II. Literature
+ III. Mythology
+ IV., V. Antiquities
+Vers..
+
+Trans..
+
+Give..
+
+Writ..
+
+Expla..
+
+Defin..
+
+Form..
+
+Give an
+
+Show by an
+
+Discuss
+
+are
+
+and
+
+hav..
+LATIN GRAMMAR AND
+
+18.
+
+1. Give the Latin words, in *cardinals, ordinals,* distributives, and numeral adverbs, for the numbers from 6 to 11 inclusive.
+2. Translate—*Addiderat lustris altera lustra novem*; and paraphrase it.
+3. Give the Latin style for—May 1st, June 8th, November 5th, December 31st, October 15th, February 17th, July 3rd, January 10th.
+[4. Analyse the formula, "A.D. XII. Kal. Nov.," and account for its apparently ungrammatical nature.]
+[5. Explain "Annus Bissextus." What were the months "Quintilis" and "Sextilis"? and why is the 12th month called "December"?]
+6. Translate—(1) *O terque quaterque beatus!* (2) *Martiis caelebs quid agam Kalendis?* (3) *Par nobile fratrum.* (4) *Unus et alter adest.* Put into Latin—"Half as large again."
+7. How may distributives be used in poetry?
+8. Put into Latin—(1) "He lived for two years." (2) "He was made dictator for three months" (two ways). (3) "He died in the twenty-first year of his age." (4) "The city was not taken before the tenth year." (5) "The third and fourth legions are come."
+9. Give Arabic figures for—XCIV., IƆƆ., CCLXXII., CCCIOƆƆ., DCCCLIX., MM., XM.
+JUNIOR SCHOLARSHIP PAPERS.
+
+19.
+
+1. Give the Latin, in *cardinals, ordinals,* distributives, numeral adverbs, \[multiplicatives, and proportionals,] from 1 to 5 inclusive ; and from 12 to 15 inclusive.
+2. Give the Latin for—18, 18th, 18 each ; 19, 19th, 19 times ; 30, 30th, 30 times ; 60, 60 times ; 70, 70 each ; 300, 300th, 300 times, 300 each ; 400, 600th, 700, 800, 900, 905th, 921st.
+3. Give the symbols for—170, 256, 993, 2008, 88, 97, 15,000, 4 (two ways).
+4. Give the Latin for—⁶⁄₅, ⁵⁄₉, 1 ¹⁄₂, 1¹⁄₁, 2⁴⁄₅.
+5. Give the Latin for—"halved" (participle), "half" (adjective), "half" (substantive).
+\[6. Give the poetical forms in which you might express 10 and 50 (using *lustrum*).]
+7. Translate—(1) *Urbs undecimo demum anno corruit.* (2) *Octavum jam regni annum agebat.* (3) *Consul non unius anni.* (4) *Ad unum interfecti sunt.* (5) *Unus veni.* (6) *Sunt nobis seni nummi.*
+8 Put into Latin—(1) "We have three horses each." (2) "They had five pounds (*libra*) apiece." (3) "He has sent three books in all." (4) "They have ten pounds between them." (5) "One or two came."
+9. Give words compounded of numerals with—(1) *annus* ; (2) *mensis* ; (3) *dies*.
+LATIN GRAMMAR AND
+
+20.
+
+1. Distinguish between a *sestertius* and a *sestertium*, and show how the latter word is formed.
+2. Derive the word *sestertius*, and give its money value. Give and explain its Roman symbol.
+3. Explain—(1) HS. XXII. (the coin). (2) HS. MD. (the sum). (3) HS. *decies*. (4) HS. XX.
+4. Give about the value in our money of—(1) *as*; (2) *denarius*; (3) *decies* HS.; (4) HS. XXV.
+5. Give a list of the fractions of the *as*, with the value of each; and give the gen. sing. of—*bes*, *semis*, *deunx*.
+6. Explain—(1) *Asses usurae*. (2) *Heres ex asse*. (3) *Heres ex dimidia parte*. (4) *Centesimae usurae*.
+7. What other unit is used instead of the *as*?
+8. Put into Latin—(1) "He is in my debt. (2) "He has much ready money." (3) "To incur a debt."
+9. Parse—*pondo*, *dupondius*; and explain the meaning of—*peculium*. Derive—*pecunia*.
+10. Translate—(1) *Acceptum Titio ferre*. (2) *Expensum Titio ferre*.
+
+JUNIOR SCHOLARSHIP PAPERS.
+
+21.
+
+1. Decline—*in sing. and plur.: ego, tu, se, qui (rel.);* in sing. only: quis? (substantival).
+
+2. Give all the poss. pronouns, with their meanings.
+
+3. Parse, in as many ways as you can—quí, nostrás, cujus, mei, nostri.
+
+*4. Give the full acc. sing. of—ille, ipse, iste, hic, idem, is, quidem, quisquis, quisque.*
+
+5. Add suffixes to—ego, tu, hunc, suo; and decline iste with the suffix -ce.
+
+6. Explain the words "demonstrative," "reflexive," "reciprocal." By what phrases does Latin express the reciprocal pronoun?
+
+7. Give the Latin for—(1) "Who comes?" (2) "Tell me who comes." (3) "Tell me who came." (4) "What soldier is here?" (5) "Who is here?" (6) "What shall I do?"
+
+8. Distinguish—quisque, quisquam, quisquis ; quis, quis ; quicunque, quisquis; quisquam, ullus.
+
+9. Give the Latin for "any" in these sentences—(1) "Any man can do that." (2) "I do not think any man can do it." (3) "If he has any thing." (4) "Have you any money?" (5) "Not (haud) any land is mine."
+
+[10. How is quisque generally used?]
+
+11. Put into Latin—(1) "Tell me how many sheep you have;" (2) "I will send all the sheep I have;" using quot.
+
+LATIN GRAMMAR AND
+
+22.
+
+1. Decline—in plur.: *hic, is, idem, quis* (indef.); in sing.: *quidam, quis* (interrog. substantival).
+*2. Distinguish—idem, īdem; eadem, eadem; quisque, uterque.*
+3. Put into Latin—(1) "He loves his money." (2) "I have his books." (3) "They hate their enemies." (4) "We love their children." (5) "I give back their (property) to the conquered." (6) "He hopes to come." (7) "We hope he will come." (8) "Women deny that they are old."
+4. How is the case of the relative to be determined?
+5. Put into Latin—(1) "The money, which I have, is small." (2) "The money, which is here, is great." (3) "The man you speak of is here." (4) "The horses we sent are young." (5) "I am being taught by what you say."
+6. Give the gen. sing. and meaning of—*vestras, cujus, cujas*.
+7. *Caesar Æduis imperat ut suos obsides recipiant*. Remove the ambiguity by the use of *ipse*.
+8. Put into Latin—"The state was saved by my very (*ipse*) own aid."
+9. Translate—(1) *Miraturque novas frondes et non sua poma*. (2) *Vota suos habuere deos*. (3) *Cessit e vita suo magis suam suorum civium tempore*. (4) *In disputando suus est*. (5) *Stat sua cuique dies*.
+JUNIOR SCHOLARSHIP PAPERS.
+
+23.
+
+1. Give examples of the reflex. pronoun, (1) personal, (2) possessive, referring to the object of a sentence. When is this allowed?
+2. In what senses is *qui* followed by the subjunctive? Give one example of each use.
+3. What is the proper meaning of *quotus*? Give an example of its use.
+4. Translate—(1) *Quota hora est*? (2) *Quotus quisque sapiens est*! (3) *Quotā bibemus*?
+5. Distinguish between the meanings of *is*, *ille*, and *iste*. What older form is there of *ille*? What is its adverb meaning "at that time"? and what meanings does it get?
+6. Translate—(1) *Sub ipsis moenibus*. (2) *In ipsis clara ruinis*. (3) *Odi istos mores*. (4) *Quantum mutatus ab illo Hectore*!
+7. Distinguish by examples between—*uter*, *uterque*; *uterque*, *quisque*; *quivis*, *quisquam*; *quisquis*, *quicunque*; *quemlibet*, *ullum*; *quid*? *quod*?
+8. Parse—*qui*, *quā*, *quo*, in all ways.
+9. Give other forms for—*quibus*, *quoties*, *quicumque*, *quodpiam*.
+10. What is the proper place of the relative in its clause? Give an instance of a clause in which it cannot take that place.
+[11. Comment on—*Eōdem diē, quō diē missī sunt*, etc.]
+
+LATIN GRAMMAR AND
+
+24.
+
+1. Give other forms of—amaverunt, amari, amatus erat, amatus est, amaris; and parse amare in as many ways as you can.
+
+2. Contract—amavisses, amaverat, amaverunt, amaverit, amavisti, redivit, movissent, noveratis, flevisti, audivisti.
+
+*3. Conjugate—rego in pres. ind. act. and I fut. ind. pass.; amo in pres. subj. act. and pres. imperat. pass.; moneo in I fut. ind. act. and imperf. subj. pass.; audio in plup. ind. act. and imperf. subj. pass.*
+
+4. Make a table of primary and historic tenses in the ind. and subj. moods; and distinguish between the meanings of perfect and aorist.
+
+5. State the rule for sequence of tenses.
+
+6. Put into Latin—(1) "It cannot be doubted that (quin) he fights, has fought, and will fight." (2) "It could not be doubted that he was fighting, had fought, and was going to fight."
+
+7. Give all the common pres. subjunctives ending in -im, besides those of sum and its compounds.
+
+*8. Conjugate—possum in I fut. ind.; eo in pres. subj.; fero in imperf. subj. act.; fio in imperat.; nolo in imperat.*
+
+9. Give the 2nd pers. sing. imperat. of—facio, duco, jacio, jaceo, scio, fero, dico, memini.
+JUNIOR SCHOLARSHIP PAPERS.
+
+25.
+
+1. Give each participle, with meaning, that can be used in nom. sing. masc. from the trans. verb *duco* and the intrans. *venio*.
+
+2. Go through the periphrastic tenses—(1) "I am going to fight." (2) "I must fight." (3) "I shall have to fight."
+
+*3. Conjugate—*volo* in pres. subj.; *fio* in imperf. subj.; *malo* in pres. ind.; *possum* in imperf. ind.; *ědo* in pres. subj.; *eo* in 2 fut. ind.*
+
+4. Go through the impers. pass. tenses for—"I had gone;" "I shall have to go;" "I am going."
+
+5. *Decline in sing. the pres. participles of—*eo*, *redeo*, *possum*. * How is this last used?
+
+6. Give other forms found for—*ēdit*, *ēdat*, *audiet*, *audiē- bam*, *capiendus*, *esset*, *fore*.
+
+7. Distinguish—*fugit*, *fūgit*, *fugat*; *capit*, *coepit*, *cepit*; *ēdit*, *ēdit*; *sero*, *serō*; *tegit*, *texit*, *tēxit*; *occido*, *occidō*; *cado*, *caedo*, *cēdō*, *cědō*.
+
+8. Give in pres. inf. act. one example, with meaning, of an inceptive, a desiderative, a factitive, a frequentative, and a diminutive verb.
+
+9. Give the perf., sup., inf., meaning, of—*parco*, *pareo*, *pario*, *paro*, *metior*, *mentior*, *meto*, *mitto*, *fulgeo*, *fulcio*, *quaero*, *queror*.
+
+10. Give the 1st pers. sing. of each tense ind., subj., inf., and the participles, from—*coepi*, *odi*, *memini*; with meanings of ind. tenses.
+
+LATIN GRAMMAR AND
+
+26.
+
+1. Conjugate—*aio* in pres. ind. and pres. subj.; *inquam* in pres. ind. and 1 fut. ind.
+
+2. Collect the verbs called semi-deponent or neuter passive; *i.e.* with perf. of act. meaning and pass. form.
+
+3. What case-constructions follow—*poenitet, libet, juvat, pudet, attinet, miseret*? Give the English of each.
+
+4. Go through the tenses—"I must go;" "I ought to have gone;" "I shall have to go;" using *oportet* and its tenses.
+
+5. Distinguish—*licet, liquet; accedit, accidit; decet, dedecet; convěnit, convenit; reliqui, reliqui.*
+
+6. Form in pres. inf. act. a trans. verb from *fraus*; an intrans. from *canus*.
+
+7. Give the perfects of—*pudet, taedet, miseret, licet, libet, piget*. How else is *libet* spelt?
+
+8. Give the meanings of the imperatives—*cedo, apage, salve, ave*. Give plur. of each.
+
+9. Parse—*[viděn', audin', infit, faxit,] norit, venibit, reperit, farier*.
+
+10. Account for change of quantity in *venio*, perf. *vēni*.
+
+11. Give the perf., sup., inf., meaning, of—*condo, mico, lavo, caveo, soleo, pungo, concutio, sacpio*.
+
+[12. Give an example of a participle compared.]
+
+JUNIOR SCHOLARSHIP PAPERS.
+
+27.
+
+1. Give the perf., sup., inf., meaning, of—texo, tego, cado, caedo, jubeo, maneo, haereo, faveo, fleo, conniveo, adoleo, augeo, torreo, traho, lavo.
+2. Show by short examples the case-constructions that follow—dono, muto, [invideo,] parco, interest, nubo, recordor, potior, utor, rogo, rogor.
+3. What parts of a deponent verb have act. form? and what part has pass. meaning?
+4. Decline throughout the verbal noun videre; and add an example of the construction of each case.
+*5. Conjugate—prosum in pres. ind.; fio in 1 fut. ind.; queo in pres. subj.; nequeo in imperf. ind.*
+6. Account for fero making ferre, ferrem, ferrer; and for refero making perf. rētuli or rettuli. Compare similar perfects.
+7. [In what forms do orior and potior follow conj. 3?] Give the fut. participles of—orior, morior, ordior, moror; with meanings.
+8. Give the rule for a verb like capio (3rd) dropping i.
+9. Distinguish—oblitus, oblitus; dico, dico; conditus, conditus; imperat, impetrat; veneo, venio; pateo, patior; figo, fingo; pendeo, pendo.
+10. Put into Latin, (1) using desum, (2) using careo—"I am without money."
+LATIN GRAMMAR AND
+
+28.
+
+1. Put into Latin—(1) "He commands (*impero*) me to go." (2) "He warned (*hortor*) me not to go." (3) "He warns (*moneo*) me that there is danger." (4) "He demands (*impero*) money of me." (5) "He bids (*jubeo*) me go." (6) "We will ask (*quaero*) the king for money." (7) "I had prayed (*oro*) the gods for peace."
+
+2. Distinguish—*diffidit, diffīdit*; *educat, ēducat*; *consulit me, consulit mihi*; *nitĕre, nītēre*; *mandat, mandit*; *labor, lābor*; *labōres, labōrēs*; *ferit, ferat*; *canet, cănet*.
+
+3. Give the meanings of—*pōtus, imperātus, ventus, reditus, redditus, nupta, jurāti, circumventus, inīta, ausus*.
+
+4. Compound—*fero* with *a*-, *ob*-, *cum*-, *ad*-; *quaero* with *ad*-; *audio* with *ob*-; *cano* with *cum*-; *ago* with *per*-, *circum*-; *lego* with *inter*-.
+
+5. Give the perf., sup., inf., meaning, of—*sentio, sepelio, vinco, vincio, viso, colo, scindo, reddo, comperio*.
+
+6. Translate—(1) *Tu pulsas, ego vapulo*. (2) *Tene queri!* (3) *Tene clamorem*. [(4) *Vitam mihi acceptam retulit*. (5) *Boni consuluerat*.]
+
+7. Put into Latin, using participles—(1) "Having followed me, he was safe." (2) "Having been sent, he hastened." (3) "Having conquered the enemy, he returned." (4) "We hear that Cæsar, having followed you, is safe."
+
+JUNIOR SCHOLARSHIP PAPERS.
+
+29.
+
+1. What verbs govern (1) abl.; (2) abl. or gen.; (3) two accs.; (4) acc. and gen.?
+
+2. Parse, with meanings—*manat*, *nitetur*, *estur*, *illitus*, *desiit*, *sis* (two ways), *nactus*, *placandus*, *fugarat*.
+
+3. Distinguish—*appello*, *appello*; *vomere*, *vomere*; *passūs*, *passi*, *passi*; *cresco*, *augeo*; *accidit*, *contingit*; *victūs*, *victus*; *refert*, *refert*; *simulo*, *dissimulo*; *calet*, *callet*.
+
+4. Give the perf., sup., inf., meaning, of—*domo*, *haurio*, *ardeo*, *do*, *lego*, *lēgo*, *spondeo*, *divido*, *defendo*, *salio*, *frango*, *rumpo*, *gigno*; and the perf. of—*nascor*, *fateor*, *confiteor*, *fatiscor*, *reor*.
+
+5. Put into Latin in as many ways as you can—"He comes to see the games."
+
+6. Go through the tenses, using gerundives—(1) "I had to go." (2) "I shall have to send money." (3) "I must be spared (*parco*)."
+
+7. What case-constructions follow—*noceo*, *laedo*, *subvenio*, *refert*, *flagito*, *indulgeo*, *convenio*, *antepono*?
+
+8. Put into Latin—(1) "He rolls the eyes." (2) "His eyes roll." (3) "They turned to see me." (4) "The stone was rolling." (5) "I shall dress (*vestio*) in dark garments."
+
+9. Give in pres. inf. act., with meaning of each—frequentative of *cano*; desiderative of *pario*; inceptive of *caleo*.
+
+LATIN GRAMMAR AND
+
+30.
+
+*1. Conjugate—potior in pres. ind.; morior in pres. and
+I fut. ind.; and the imperat. pass. of—amo,
+moneo, rego, audio.*
+2. Put into Latin—(1) "Caius must spare (parco, gerun-
+dive) Lucius." (2) "Lucius must be obeyed (pareo,
+gerundive) by the soldiers." (3) "The camp was
+commanded (praesum) by Trebius." (4) "You will
+be aided (prosum) by money." (5) "We know
+that horsemen ought to have been sent" (use
+gerundive). (6) "It cannot be doubted that
+(quin) she was intending to return."
+3. Analyse the construction of—Credo urbem captum
+iri; and give other Latin for it.
+4. Give the perf., sup., inf., meaning, of—cognosco, ignosco,
+pasco, paveo, pango, emo, fingo, eneco, sancio, surgo.
+5. What case-constructions follow—ignosco, posthabeo,
+uro, fugio, vescor, reminiscor, accuso, doceo?
+6. Translate—(1) Bene audiunt. (2) Matutine pater,
+seu Jane libentius audis. (3) Solum verterat. (4)
+Lege licebit agi. [(5) Secanda marmora locas. (6)
+Funera conducunt.]
+7. Parse—ausit, desierant, afuit, placamus, fugetis, more-
+mini, morēris, artos.
+8. Distinguish between inquit and dixit, introducing
+speeches.
+9. Give the meanings and constructions of the following :
+—constat, accedit, liquet, licet, oportet, depudet.
+JUNIOR SCHOLARSHIP PAPERS.
+
+31.
+
+1. Parse—perpeteris, repostis, ablatus, visit, satus, quaesumus, fatur, reri, conferti.
+2. Translate—(1) Non potuit non ire. (2) Licet eas. (3) Quid agis? (4) Metum dissimulat. (5) Compertum habeo haec facta esse. (6) Dolorem prae se fert. (7) Morem tibi geram.
+*3. Distinguish between ars pugnantis and ars pugnandi.*
+4. Put into Latin—(1) "Seeing is believing." (2) "Wonderful to see." (3) "Seeing this, he returned."
+5. Go through the tenses—(1) "I retire (me recipio)." (2) "I was intending to retire." (3) "I should have retired."
+6. Give the perf., sup., inf., meaning, of—tollo, concupisco, inveterasco, consuesco, sterno, cerno, percello, veto, juro, neo, prandeo, sarcio, impingo.
+7. What case-constructions follow—spolio, dignor, irascor, minor, celo, voco, vocor, plaudo?
+8. Translate—(1) Oratio Ciceronem sapit. (2) Carmen lampadem olet. (3) Redimitus tempora lauro. (4) Tyrios induta paratus. [(5) Uxori nubere nolo meae.]
+9. Compound—plaudo with ex-; quatio with cum-; rego with di-; claudo with re-.
+10. Distinguish between the meanings of claudo and its compounded form with re-.
+LATIN GRAMMAR AND
+
+32.
+
+1. Divide into subject, predicate, copula, and complement—(1) Dulce et decorum est pro patria mori. (2) Taedet eadem centies dicere. (3) In dubio est veniatne exercitus.
+
+2. Show where the subjects (expressed or not), objects, and predicates are in—(1) Huic ego diei nomen Trinummo faciam. (2) Promittit se venturum esse. (3) Tibi ne illud faceres suadebam.
+
+*3. Name six copulative verbs.*
+
+4. Translate—(1) Clarus evadet orator. (2) Fies meorum ducum. (3) Mihi a te serviendum est. (4) Tibi ignoscetur. (5) Aut disce aut discede: manet sors tertia, caedi.
+
+5. Give the perf., sup., inf., meaning, of—desilio, detego, confido, tero, cupio, fallo, fodio, pessumdo; and the perf. and inf. of—adipiscor, comminiscor, ulciscor, ordior, ingredior, expergiscor, perpetior, nitor.
+
+6. What verbs mean "to remember"? and what construction is used with each?
+
+7. Give in pres. inf. act.—the frequentatives of dico, rogo, minor; the desideratives of edo, pario, scateo.
+
+8. Put into Latin—(1) "I know that he is coming." (2) "I knew that he was coming." (3) "I know that he would have come." (4) "I know that he came." (5) "I knew that he was living."
+
+JUNIOR SCHOLARSHIP PAPERS.
+
+33.
+
+1. Parse in all ways—liquor, liques, licuit, comesus, dila-
+bere, labi, latus, sine, restituere.
+2. Distinguish—profectus, provectus ; dilectus, delectus ;
+fassus, fessus ; rideo, subrideo.
+3. Write out the complete impers. pass. of venio, with
+the 1st pers. pronoun.
+
+[4. Give all the impers. verbs, with meanings of each,
+relating to the weather and time of day.]
+
+5. What participles are wanting in a Latin verb? Write
+short sentences to show how they are to be sup-
+plied.
+6. Give the participials from—fleo, lacrimo, miseror.
+7. Translate — Alexander, audito Darium appropin-
+quare, se recepit. [What other participles are used
+as audito in this sentence ?]
+8. Translate—(1) Perspectum habeo eum irasci. (2)
+Cognitos habeo adolescentis mores. [What other
+participles are used as perspectum and cognitos in
+these sentences ?]
+9. Go through the 1 fut. ind. and the historic fut.
+subj. (periphrastic tense) of the reflexive me
+recipio.
+10. Translate, showing the difference of tense-idiom, in
+English and Latin—(1) Jampridem cupio. (2)
+Si hoc feceris, bene tibi erit. (3) Licuit nobis
+excedere.
+
+D
+
+LATIN GRAMMAR AND
+
+84.
+
+1. Give the pres. inf., with meanings, of all Latin verbs beginning with—met-, mit-, can-, pol-.
+
+2. Give in pres. inf. verbs formed (without prefixes) from—facio, pendo, pello, ědo, pario, impero ; with meaning of each verb so formed.
+
+3. What parts of the Latin verb would you use for the verbals in the following ?—(1) "After the taking of the city." (2) "In hope of taking the city." (3) "In the midst of fighting." (4) "Easy in the doing."
+
+4. What are the forces of the prefixes in—religo, renuo, recludo, reitero, nequeo, invideo, infitior, adamo, ambio, secerno, dijudico, aufero, amitto, pejero?
+
+[5. Account for the expressions—mea interest; mea refert.]
+
+6. Explain the terms—finite, infinitive, aorist, jussive, optative ; and distinguish between subjunctive mood and conjunctive mood.
+
+7. Classify, with one example of each, the pure uses of the conjunctive mood.
+
+[8. Give the pres. inf. and meaning of—sermocinor, scaturio; and compare them with verbs of similar formation.]
+
+[9. Give instances of the middle voice of a trans. verb in pass. form, and governing an acc.]
+
+JUNIOR SCHOLARSHIP PAPERS.
+
+35.
+1. Define an adverb.
+2. Give and compare (where possible) the adverbs of—
+bonus, parvus, gravis, sapiens, facilis, subitus, felix,
+supplex, fortis, maturus.
+3. Give the adverbs in which -o implies "motion to."
+4. Give the Latin for—"hither," "here," "hence," "from
+on all sides," "when?" "how long?" "how
+often?" "willingly."
+5. What are the adverbs of negation in Latin? Give
+rules for moods and tenses following ne prohibitive.
+6. Give rules for use of haud.
+7. Compare—saepe, satis, secus, diu, male, multum,
+intus, prae, prope, nuper.
+8. Give the adverbs formed from—separo, gradus, sin-
+guli, omnis, divinus, horreo, dulcis, suavis, vir,
+mulier, sentio, mordeo.
+[9. Collect seven adverbs ending in -itus ; and give
+the meaning of each.]
+10. Give the Latin for—"within two days;" "for the
+space of three days;" "daily;" "from day to
+day;" "by night;" "where in the world ?"
+"much greater;" "far otherwise."
+[11. What is the force of secus as a suffix? Give ex-
+amples.]
+
+LATIN GRAMMAR AND
+
+36.
+
+1. Distinguish *sic* and *tam*; and give all adverbs meaning "so."
+2. Give the Latin for—"at another time;" "at another place;" "whither you will;" "to neither place;" "from each side;" "from whatever side;" "from another side;" "how?" "in like manner;" "otherwise;" "again and again" (2).
+3. Distinguish—*non nunquam*, *non unquam*, *nunquam non*; and translate—(1) *Nonnihil habeo*. (2) *Nemo non me amat*. (3) *Quo tibi fuit morari*? (4) *Non eadem non feci*.
+4. Translate—(1) *Quando erit ut venias*? (2) *Non est cur me oderit*. (3) *Tres omnino sumus*. (4) *Excess propterea quod jubebas*.
+5. Give six adverbs ending in *-tim*, with meanings.
+6. Give the meanings of—*usquam*, [*utrobi*? *neutrubi*], *undevis*, *illuc*, *alicunde*, *quandoque*, *aliquo*, *quocumque*, *indidem*, ] *item*, *foris*, *foras*.
+7. With what verbs is *haud* used?
+8. Give all the meanings of—*olim*, *quondam*, *aliquando*, *temere*, *etiam*.
+9. Compare the adverbs of—*dignus*, *pius*, *miser*.
+10. Show by examples the use of—*ne quidem*, *nedum*.
+11. Translate—*Non modo sapiens sed ne prudens quidem videtur*; [and explain the peculiarity of the expression].
+JUNIOR SCHOLARSHIP PAPERS.
+
+37.
+
+1. What is a primitive adverb? Give three examples.
+[2. Comment on the formation of—diu, valde, profecto, denuo, nimirum, hodie, magnopere, videlicet, dumtaxat, admodum, propediem, nudiustertius.]
+3. Give examples of formations similar to deinde from inde. What other form is there of deinde?
+4. Give four adverbs meaning "excessively."
+5. Translate—(1) Minime ad eos mercatores saepe commeant. (2) Ad te minime omnium pertinet. (3) An tu haec non credis? minime equidem.
+6. Distinguish—certe, certo; rursus, iterum; alias, alibi; ultra, ultro; nusquam, nunquam; sursum, deorsum.
+7. Comment on the formation of retrorsum; and compare a word of similar form.
+8. Translate—Ab nonnullis Gallis sollicitabatur; partim qui in Gallia hiemare moleste ferebant; partim qui novis rebus studebant. [Give an example of partim with genitive.]
+9. What other adverbs are used like moleste, as above, with fero?
+10. Give the meanings of—immo, denique, utique, nempe, longe lateque, paulisper, parumper, ilicet, scilicet, repente, vixdum, perquam, eatenus.
+11. Translate—(1) Sane quam brevis erit lex. (2) Quarto demum anno e vita excessit.
+12. Show by examples the meanings of cominus and eminus.
+LATIN GRAMMAR AND
+
+38.
+
+1. Distinguish between co-ordinative and subordinative conjunctions.
+
+2. What are enclitics? Give the Latin enclitics, with the force of each.
+
+3. What words are used asking single questions expecting answers—(1) "yes;" (2) "no;" (3) either "yes" or "no"?
+
+4. To what class of subordinative conjunctions does each of the following belong?—*si*, *licet*, *quia*, *tanquam*, *quoties*, *quo*, *ut* (in order that), *ut* (so that).
+
+5. Give the Latin for—(1) "in order that not;" (2) "so that not;" (3) "provided that;" (4) "unless."
+
+6. What is usual Latin for *et non*? How may *et non* be used? Give an example.
+
+7. Distinguish—*ante*, *antea*, *antequam*; *nē*, *-ně*; *tanquam*, *quamquam*; *ceu*, *seu*; *ne quis*, *ut nemo*.
+
+8. Give all the ways of expressing "too"—(1) as adverb; (2) as conjunction.
+
+9. Explain "final," "consecutive," "temporal," "concessive," as applied to conjunctions.
+
+10. Put into Latin—(1) "Are you well (*valeo*) or ill (*aegroto*)?" (2) "I ask whether he is well or ill." (3) "I asked if he was well or ill." (4) "I shall go, whether he is well or ill."
+
+11. How are prohibitions constructed? Give some examples of periphrastic prohibitions.
+
+JUNIOR SCHOLARSHIP PAPERS.
+
+39.
+
+1. Distinguish between *quum* temporal and *quum* causal; and give rules for the moods following them.
+
+2. What moods in *oratio recta* follow—*quod*, *dum* (temporal), *dummodo*, *licet*, *quia*, *tanquam*, *quin* (final)?
+
+3. Translate—(1) *Quin fugimus*? (2) *Quin tace*; [and explain the mood in the latter].
+
+4. Put into Latin, dividing the word *priusquam* between the main sentence and the clause—"I came before you had started."
+
+5. With what meanings is *ut* followed by indicative? Translate—(1) *Ut careo patria longum est*. (2) *Ut juvenis, ita prudens est*. (3) *Vereor ut veniat*. (4) *Quum surdus tum cæcus est*.
+
+6. Put into Latin—(1) "The more he has, the more he wants." (2) "There is no one but believes you." (3) "I will prevent them from returning the money." (4) "Will he come or not?" (5) "Tell me whether he will come or not."
+
+7. Show by examples the uses of *qui* causal, *qui* final, and *qui* consecutive. How are *utpote* and *quippe* used with *qui*?
+
+8. Give an example of each use of *quin*.
+
+[9. What mood and tense follow—(1) *si* = "if as is the case;" (2) *si* = "if as is probable;" (3) *si* = "if as is uncertain;" (4) *si* = "if as is not the case;" (5) *si* = "if as was not the case"?]
+
+LATIN GRAMMAR AND
+
+40.
+
+1. How are the conjunctions—*quo*, *ne non*, *neu*, [*at*
+*enim*], used?
+
+2. Put into Latin—(1) "If he has anything, he gives it."
+(2) "If he had had anything, he would have
+given it." (3) "If he has anything, he will give it."
+
+3. Which parts of the preceding sentences are protases
+and which apodoses? [Show how the mood of
+the apodosis in (2) is varied.]
+
+[4. Show how *quin* comes to be followed by an imperat.
+mood; and give its force as a co-ordinative
+copulative.]
+
+5. Translate—*Huc accedit quod ire nolo*; and put it in
+another form.
+
+6. Put into Latin—"You must go," in as many ways as
+you can, using *oportet*.
+
+7. Translate—[(1) *Ambigitur prosit an obsit opus*.] (2)
+*Sineret pater, venirem*. (3) *Socrates accusatus est
+quod juvenes corrumperet*. (4) *Socrates accusatus
+est quod juvenes docuit*. Show the force of the
+moods after *quod* in (3) and (4).
+
+8. How are the following conjunctions used?—*ceu*, *modo*,
+*quamvis*, *utut*, *donec*, *quoniam*, *quoad*.
+
+9. How is the rule of sequence of tenses broken after
+*dum*? Give an example.
+
+10. What is the force of *quum* with the plup. indicative?
+
+11. What are the Latin words for "also"?
+
+JUNIOR SCHOLARSHIP PAPERS.
+
+41.
+
+*1. Write out a list of the prepositions that govern the ablative only.*
+2. Give by examples the force, and case governed, by each of the following:—*erga*, *penes*, *pone*, *secundum*, *cis*, *absque*, *coram*, *extra*, *juxta*, *trans*.
+3. What preposition is compared? Compare it.
+4. What prepositions govern more than one case, and with what difference of meaning?
+5. Give examples of the different uses of *tenus*.
+6. Give all the meanings of—*prae*, *ante*, *praeter*, *de*, *pro*.
+7. Translate—*ad unum*; *ad summum*; *ad verbum*; *ad unguem*; *ad amussim*; *nihil ad me*; *ad multam noctem*; *ad judices*; *Baias et ad Ostia currunt*.
+8. Give the force of the preposition in—*defloresco*, *praeclarus*, *annuo*, *abnuo*, *renuo*, *retego*, *propraetor*.
+[9. "It is not the preposition that gives the force to the case, but the case that gives the force to the pre- position." Comment on this, as applying to any Latin preposition, to show what a preposition really is.]
+10. What prepositions would you use in?—(1) "At my house." (2) "I pray you by the gods." (3) "To sing to the lyre." (4) "In jest." (5) "For good reasons." (6) "Of marble." (7) "From hour to hour." (8) "Within the memory of man." (9) "After the manner (*mos*) of a king."
+LATIN GRAMMAR AND
+
+42.
+
+*1. Give the prepositions that govern the acc. only.*
+2. Translate—*e vestigio*; *e republica*; *pro viribus*; *de die*;
+*a fronte*; *de more*; *de industria*; *sub noctem*;
+*invicem*; *pro re nata*; *pro eo ac potui*.
+3. What prepositions are used in quoting (1) authors;
+(2) books? Give examples.
+4. Put into Latin—(1) "He is in debt." (2) "He has
+ready money." (3) "He is silent from fear." (4)
+"We triumph over the Persians." (5) "You
+may as far as I am concerned." (6) "He was
+at my house." (7) "Opposite Brundisium." (8)
+"From a boy." (9) "From the time when."
+5. Put into Latin in four ways—"Such is your kind-
+ness."
+6. What forms do *cum*, *ob*, *trans*, *in*, *sub*, *ab*, *ad*,
+assume in composition before consonants?
+7. What are the inseparable particles with which verbs
+are compounded as with prepositions? Give force
+of each.
+[8. Distinguish between—*circum* and *circiter*; *erga* and
+*ergo*, governing a case; *post* and *pone*; *venit
+Romam* and *venit ad Romam*; *ultra* and *ultro*.]
+9. State, with examples, the uses of *cum*; and give
+an example of it strengthened with *una*.
+10. Translate—*Quas ego te terras, et quanta per aequora
+vectum Aspicio*.
+JUNIOR SCHOLARSHIP PAPERS.
+
+43.
+1. Define an interjection.
+2. What interjections are followed by the dative? Give examples.
+3. What cases follow?—*en*! *ecce*! *proh*! Give the meanings of each.
+[4. Derive and translate—*mediusfidius*, *edepol*, *Mehercle*.]
+5. Translate—(1) *Abi in malam crucem*! (2) *Nonne ad corvos*? (3) *Pro Juppiter*. (4) *Eheu cicatricum*! (5) *Ellum*. (6) *Eccillum*. (7) *Eccum*. (8) *Sodes*. (9) *Amo te*! (10) *Sultis*.
+6. Translate—(1) *Di nobis meliora*. (2) *Per te ego deos imploro*. (3) *Ne iste haud dubitans cessisset patria*. (4) *Macte virtute esto*!
+[7. Define "aposiopesis;" and explain its nature, with examples in English and Latin.]
+[8. What imperatives are used almost as interjections?]
+9. Give examples of the uses of—*Utinam*, *O si*.
+[10. Explain—*Evoe*! *Hymen O Hymenaee*!]
+[11. Give some of the usual expressions of approval.]
+12. What case is sometimes used for a vocative? Quote an example.
+LATIN GRAMMAR AND
+
+Define "stem," "stem-character."
+Give the stem-characters of—*musa*, *vir*, *nubes*, *lex*, *cornu*, *facies*, *impero*, *doceo*, *induo*, *sperno*, *vincio*.
+Define "root." What are the roots of—*occido*, *agmen*, *incola*, *integer*, *navis*, *pango*, *tollo*, *legatus*? Give meaning of and another word formed from each root.
+What roots are borrowed by—*fero*, *fio*?
+Define—flexion, declension, conjugation.
+Explain—uncials, cursives, mutes, liquids, nasals, spirants, gutturals, dentals, labials.
+Which are the double letters in the Latin alphabet?
+Explain the terms—penult, antepenult, enclitic, parisyllabic, imparisyllabic.
+Explain and give one example of—apocope, syncope, assimilation, aphæresis, antithesis, metathesis, tmesis.
+What is a parasitic letter? Give examples.
+JUNIOR SCHOLARSHIP PAPERS.
+
+45.
+
+1. Where is the object of *puto* in—*Puto mortem dedecore leviorem*? and where the subject of *pudet* in—*Pudet me haec te rogasse*?
+
+2. Give the rules for moods in *oratio obliqua*.
+
+3. What do you gather from an indicative occurring in a reported speech?
+
+4. Rewrite in *oratio obliqua* (depending on *respondit*)—*Haec nequeo facere: namque ea, quae rogavisti, monitus sum ne faciam*.
+
+5. State the rule for questions in *oratio obliqua*, and put into Latin in oblique form—"Why do you hate me? What have I done? What has my son said?"
+
+6. Rewrite in *oratio obliqua* (depending on *narrat*)—*Hostes, quos exspectamus, jam adsunt*.
+
+[7. Does the following need correction?—*Respondit se pecuniam accepisse, quam illos accepturos.* Give reason for your answer.]
+
+8. Why is the sequence of tenses sometimes historic after an historic present?
+
+9. Translate—(1) *Talia mene pati.* (2) *Manlius locutus fertur*.
+LATIN GRAMMAR AND
+
+46.
+
+1. What is the historic infinitive? What are its chief uses?
+
+2. State the construction that follows each of the following verbs:—*conor*, *jubeo*, *impero* (command), *volo*, *veto*, *dicor*, *malo*, *moneo*, *nitor*.
+
+*3. Change into gerundive attraction—(1) *Efferor studio videndi patriam*. (2) *Nulla spes est patres servandi*.
+
+4. When is the trans. gerund with object preferable to gerundive attraction? Give examples.
+
+5. Which is better Latin—(1) *Homerus dicitur caecus fuisse* or *Dicitur Homerum caecum fuisse*? and (2) *Galbam doctum fuisse traditum est* or *Galba doctus fuisse traditus est*?
+
+6. Translate—(1) *Sensit medios delapsus in hostes*. (2) *Cave eas*. (3) *Veto iisdem sub tectis mecum sit*. (4) *Venire debuisti*.
+
+7. Give examples of adjectives followed by infinitive. [What author uses such infinitives most constantly?]
+
+8. Rewrite in *oratio recta*—*Quid se desperare posse? Hostes, quos vidissent, nec validos nec multos esse: nec se eum esse qui tales timeret.*
+
+9. What poetical use is there of the perf. infinitive? Quote an example.
+JUNIOR SCHOLARSHIP PAPERS.
+
+47.
+
+1. Comment on the tenses in—(1) *In medios hostes nocte silente venit. Nudarant gladios.* (2) *Antoni potuit gladios contemnere, si sic Omnia dixisset.* (3) *Speravit se posse.* (4) *Tam prudens erat ut pericula vitaverit.*
+
+2. Of what figure of syntax is the following an example? —*Ludo fatigatumque somno.* Explain the nature of it, and quote examples of the same.
+
+3. Explain—synesis, asyndeton, [anacoluthon;] giving an example of each.
+
+4. Distinguish by examples between *est* the copula and *est* forming a predicate.
+
+5. Put into Latin—(1) "He causes (*curo*) ships to be built." (2) "He caught the slave and slew him." (3) "The victory cost the enemy many men." (4) "The camp began to be besieged." (5) "I fear he will stay." (6) "I have ceased to be attacked."
+
+6. In what varying senses are the following used?—[con-*duco, loco*]; *amo, fugio, fallo, audio.*
+
+7. Distinguish—*educo, educo; appellare, appellere; accendo, succendo; contingit, accidit.*
+
+8. Show how the English and Latin tenses differ in—(1) "I shall do it if I am able." (2) "He ought to have returned." (3) "If you have answered, you shall go."
+
+LATIN GRAMMAR AND
+
+48.
+
+1. What is the rule for the agreement of a verb with a compound subject? and when is it superseded?
+2. What is the rule for the subject of the infinitive? and when is the subject of the infinitive in the nom. case?
+3. Give one example of the inf. mood used—(1) obliquely with acc. of subject; (2) historically, in narration; (3) prolatively after verb; (4) pro-latively after adjective; (5) substantively for nom. of a noun; (6) substantively for acc. of a noun; (7) in exclamation.
+4. Explain "synesis;" and give an example of it affect-ing the agreement between subject and finite verb.
+[5. Where are the subjects of the verbs in the following? —(1) *Sanguine Centauri Lernaeae sanguis Echidnae Mistus, ad auxilium tempora nulla dabunt.* (2) *Ilia cum Lauso Numitore sati sunt.* ]
+6. Explain "attraction;" and give an example of it.
+7. Where are the objects of the verbs in the following? —(1) *Audivimus Caesarem venisse.* (2) *Mors faciet ne sim exul.* (3) *Vincere scis, Hannibal: victoria uti nescis.*
+8. Where are the subjects in the following?—(1) *Mos erat civitatis praedam dividere.* (2) *Didicisse fide-liter artes Emollit mores.*
+JUNIOR SCHOLARSHIP PAPERS.
+
+49.
+*1. Give rules for case of—"place to which;" "time how long."*
+2. What verbs govern two accusatives? Give an ex-ample of case-construction with rogor.
+3. Classify the accusatives in the following:—(1) Latae sunt humeros. (2) Ludum insolentem ludere pertinax. (3) Nuntiat hostem adesse. [(4) Flores inscripti nomina regum. (5) Ferrum cingitur.] (6) Decem annos natus. (7) Maximam partem lacte vivunt. (8) Pridie cladem.
+4. Put into Latin in two ways—"He was appointed proprætor for two years."
+5. Translate—(1) Mella sapit. (2) Multa querens. (3) Propius urbem. (4) Proxime urbem. (5) Felicem Nioben, quamvis tot funera vidit.
+6. In what case is the subject of the inf. mood? When does the rule vary?
+7. What is the case-construction of the following verbs? —noceo, laedo, uro, cremo, ardeo, augeo, circumvenio, adeo, subvenio, convenio, placo, placeo, juvo, obsto, obeo, consulo, impero.
+8. What adjective in comp. and superl. takes an acc.?
+9. Give three examples of cognate acc. (or acc. of kindred meaning).
+
+E
+
+LATIN GRAMMAR AND
+
+50.
+
+1. What variation of case is permissible in—*Civi Romano non licet esse Gaditano*?
+
+2. Give examples of intransitive verbs becoming transitive in composition.
+
+[3. Distinguish between *egredior* with acc. and with *e* and abl.; also between *aggredior* with acc. and with *ad* and acc.]
+
+4. Distinguish between *Romam venit* and *ad Romam venit*.
+
+*5. What words are used in acc. signifying "place to which" without a preposition?*
+
+6. What variations are there in expressing duration of time?
+
+7. Give examples of the acc. of limitation in prose.
+
+8. Which of the following verbs govern two accusatives? —*precor, posco, rogo, sciscitor, peto, celo, dedoceo, flagito, quaero*.
+
+9. What is the usual construction of verbs of asking that do not govern two accusatives?
+
+10. Which are the trans. verbs in the following?—*pendo, pendeo, augeo, cresco, vito, aufugio, fugo, occido, occido, pareo, parco, pario, paro*.
+
+11. Distinguish between the transitive and intransitive uses of—*fugio, impero, consulo, convenio*.
+
+JUNIOR SCHOLARSHIP PAPERS.
+
+
+51.
+
+1. Distinguish by examples between the subjective and objective gen.
+
+2. Put into Latin—(1) "My love for thee." (2) "Thy love for me." (3) "Your love for us."
+
+3. What adjectives take a genitive after them? Give one example of each class.
+
+4. Translate—(1) Eo sapientiae venit, ut nihil non sciat. (2) Meae ditionis est. (3) Regium imperium conservandae libertatis erat. (4) Cujus est clementiae. (5) Sui roboris est. (6) Boni civis est legibus parere. (7) Instar montis equum. (8) Nusquam gentium. (9) Notus in fratres animi paterni. (10) Fies nobilium tu quoque fontium.
+
+5. Give examples of—(1) gen. of value; (2) gen. after a partitive word; (3) elliptic gen.
+
+6. Verbs of what meanings govern a genitive?
+
+7. What case-constructions follow—miseror, misereor, interest, obliviscor, potior, recordor, piget?
+
+8. Explain or classify the genitives in—(1) Tua unius misericordia nitimur. (2) Sequimur te, sancte deorum. (3) Impotens est sui. (4) Magni erat ingenii.
+
+LATIN GRAMMAR AND
+
+52.
+
+1. "Murmuring I knew not what of wild and sweet" (Tennyson). From what Latin construction is this imitated? Give an example.
+2. Write a sentence containing the word *pluris*.
+3. What four meanings are implied by the use of the elliptic gen.? Give one example of each.
+4. Give examples of the free use of the genitive after adjectives and verbs.
+[5. Translate and explain the genitive in—*Ariminenses XII. coloniarum erant*.]
+6. Give examples of an adjective used to imply—(1) a subjective gen.; (2) an objective gen.
+7. Put into Latin in two ways—"A voice stronger than that of Stentor."
+[8. Translate and comment on the construction of—*Venit mihi in mentem virtutis tuae*.]
+9. What other construction is alternative for the gen. of accusation?—e.g. *Damnatus repetundarum*.
+10. Give one example of the partitive gen. after—(1) noun; (2) neut. adjective ; (3) neut. pronoun ; (4) adverb.
+11. Give idiomatic Latin for—(1) "Where in the world?" (2) "He has come to such a pitch of ignorance."
+12. Translate—(1) *Quoad ejus fieri potest*. (2) *Æqui boni consulit*. (3) *Teruncii aestimatur*. (4) *Pensi rem habeo*.
+JUNIOR SCHOLARSHIP PAPERS.
+
+53.
+
+1. Give examples of—(1) adjective, (2) adverb, followed by dative.
+
+2. What is the case-construction of the following words?—*audio*, *pareo*, *pario*, *parco*, *obedio*, *licet*, *libet*, *delectat*, *nubo*, *prosum*, *similis*, *idoneus*, *affinis*, *nisus*, *fletus*.
+
+3. Give examples of each kind of word that is used with dat. of agent.
+
+4. Put into Latin, using nouns for words in italics—"I hate him;" "He cares for me;" "He sounded a retreat;" "This will hinder me;" "This has destroyed me;" "His tongue injured him;" "They send cavalry to help Cæsar;" "He gave it me as a gift;" "They laugh at me." Translate and explain the construction of *Cui bono*?
+
+5. Explain and give examples of the ethic dat.
+
+6. Put into Latin, with varying case-constructions—(1) "They gave the boy the name Caius." (2) "I love (*placet*) to be idle."
+
+7. What are the particles compounded with which verbs generally govern the dative?
+
+8. Put into Latin, using (1) *posthabeo*, (2) *antepono*—"I prefer reputation to money."
+
+9. Go through the tenses—(1) "I must be pardoned (*ignasco*)." (2) "I shall be spared (*parco*)."
+
+10. Put into Latin—"Cæsar must spare (gerundive) Crassus;" "He committed suicide."
+
+LATIN GRAMMAR AND
+
+54.
+
+*1. What parts of *sum* with a dative imply "having"?
+Give an example of each.*
+2. Put into Latin—(1) "He threw himself at Cæsar's feet." (2) "He took away (*eripio*) the daughter from her father." (3) "He threatens me with death."
+[3. Give a full account of the case-constructions used with *invideo*.]
+4. Distinguish between *vacat voluptati* and *vacat voluptate*.
+[5. Comment on—*It clamor caelo*.]
+6. Translate so as to bring out the force of the ethic dat.—(1) *Pulset mihi lictorem*. (2) *Ecce tibi qui rex populi Romani esse concupiverit*. (3) *At tibi repente venit ad me Caninius mane*. (4) *Haec vobis illorum militia fuit*.
+7. What variations are found in the inflexions of the dat. sing. of the 4th and 5th declensions?
+8. Distinguish *convenit mihi* and *convenit me*; and between *caveo Caio* and *caveo Caium*.
+9. In what senses are *impero, tempero, consulo, moderor*, used with (1) dat.; (2) acc.? What cases follow *praesto* = I excel?
+10. Distinguish between—*manet mihi, manet me*; *metuo tibi, metuo te*; *recipio te, recipio tibi*.
+11. Give the usual phrase with a dative for—"It is handed down."
+
+JUNIOR SCHOLARSHIP PAPERS.
+
+55.
+
+1. Define the ablative case.
+2. Give the full rules for "place from which."
+3. Give one example of abl. of (1) instrument; (2) origin; (3) quality; (4) price; (5) measure; (6) comparison.
+4. Give the rules for case of agent.
+5. Give the verbs that govern the ablative only.
+6. What constructions follow—*dignus*, *impleo*, *careo*, *potior*, *egeo*? Give meanings.
+7. What adjectives govern the ablative only? Give meanings.
+8. Put into Latin—(1) "War having arisen, we left Rome." (2) "Having been sent from Rome, we departed on the third day." (3) "We hear that Caius, having been sent from home, started on the Ides of August." (4) "The queen, having exhorted her (subjects) to enjoy peace, died."
+9. What case-constructions follow—(1) *muto*; (2) *abdico*; (3) *nitor*; (4) *dono*? Give an example of each.
+10. Give the Latin for—(1) "More than (*amplius*) six hundred" (two ways). (2) "The richer he becomes, the more he desires." (3) "The sun is many times larger than the earth." (4) "In the consulship of Plancus."
+11. How is the abl. of manner constructed?
+LATIN GRAMMAR AND
+
+56.
+
+[1. You can write in the abl. absolute *te duce*, "you being my leader;" but not *te hoste*, "you being my foe." Why?]
+
+2. Name ten substantives that can be used without a participle in the abl. absolute construction.
+
+[3. Give adverbial phrases, consisting of abl. with comp., meaning—"more than usually;" "quicker than speech;" "more than is fair;" "further than is right."]
+
+4. Put into Latin, using participles—(1) "Caesar, having thought (*reor*) he could make his way, started." (2) "Caesar having started, we returned." (3) "Caesar, having started, marched for twelve hours, impeded (*obsto*) by no one."
+
+
+5. Give one example of each construction with *opus*.
+
+6. In what sense does *nitor* take an ablative? Give an example.
+
+7. Give the abl. sing. (when more than one, the more usual form first) of—*tristis*, *melior*, *felix*, *amans* (a lover), *acer*, *hic*, *is*.
+
+8. Give the abl. sing. of—*navis*, *sinapis*, *fames*, *tussis*, *securis*, *aequalis*.
+
+9. What is the usual expression for—"By force of arms"?
+
+10. Translate—*Oratio disertior Cicerone*.
+
+JUNIOR SCHOLARSHIP PAPERS.
+
+57.
+
+1. For what names are the following abbreviations put?
+—C., M., M'., Cn., D., L., A., K., N., P., Q., S., Ser., Sp., T., Ti., Ɔ.
+
+2. Explain and give full form of words implied in the following abbreviations:—A.U.C., A.D. vi. Kal. Jan., H.S., S.P.Q.R., S.C., S.V.B.E.E.V., S.P.D., D.D., P.R., F., Cos., Coss., MM., Non., Id., Imp.
+
+[3. Explain P.C.; and show how the words are an abbreviation of a longer phrase.]
+
+4. Give the adjectival form for each month, both in abbreviated and full form.
+
+5. Write in full—etc., i.e., e.g., sc., viz., met. grat., i.q., N.B., nem. con.; and give meaning of each.
+
+6. Put into Latin in abbreviated forms—(1) "October 13th, in the five hundred and eighth year since the founding of the city." (2) "May 5th, in the year of our Lord eighteen hundred and forty-two." (3) "One million sestertia." (4) "The late Emperor Caligula." (5) "Roman knight." (6) "Consul-elect."
+
+[7. Explain the verdicts—A., C., N.L.]
+LATIN GRAMMAR AND
+
+58.
+1. Of what figures are the following examples ?—(1) Moriamur et in media arma ruamus. (2) Purpurarum sidere clarior usus. (3) Super unus eram. (4) Premit placida aequora pontus. (5) Navis excussa magistro. (6) Veni, vidi, vici. (7) Haud partem exiguam montis.
+2. Give one example of—attraction, synesis, ellipsis, emphasis, abstract for concrete, alliteration.
+3. What do you understand by "climax" and "anticlimax"?
+[4. How would you distinguish between "metonymy" and "personification"?]
+5. What is the proper meaning of "irony"?
+6. Explain "aposiopesis" and "oxymoron;" and quote examples in English and Latin.
+7. Give one example of—pleonasm, hendiadys, [chiasmus].
+8. In—
+"Navis quae tibi creditum
+Debes Virgilium finibus Atticis
+Reddas incolumem precor,"
+how is *finibus* governed?
+9. Translate and comment on—
+"Dum secum Æneas 'Anna est,' exclamat Achates."
+10. Explain "euphemism;" and quote examples in Latin names and phrases.
+
+JUNIOR SCHOLARSHIP PAPERS.
+
+59.
+1. Give eight monosyllables short in quantity.
+2. Mark the quantities unmarked in—illius, fiō, fiēbām, fieri, diei, hic (pronoun), hic (adverb), Ajax, bijugūs, patris, nobis, praeēst, matěr, procēllă, prodēst, protērvŭs, religiō, repěrī, tibi, ubi, lacrimă.
+3. Can palluerunt stand in elegiac verse?
+4. Give schemes of hexameter and pentameter, marking the penthemimeral and hephthemimeral cæsura.
+5. Explain—dactyl, spondee, pyrrhic, iambus, trochee, anapæst, tribrach.
+6. Give schemes of the Alcaic and Sapphic metres. Why so called?
+6. Give the rules and exceptions for quantity of—final -a, final -es, final -is, final -o.
+8. Explain—spondaic hexameter, catalectic verse, arsis, thesis.
+9. Give one example of—synalæpha, ecthlipsis, synæresis, diæresis, hiatus.
+10. How can ăbiětě, păriětě, těnuïă, scan so as to suit elegiacs? and exsolvisse, to suit the second half of a pentameter?
+11. Criticize this attempt at a hexameter— Sidera simplicitate sua fulgoreque splendent.
+
+LATIN GRAMMAR AND
+
+60.
+
+1. How can the following words scan?—*iidem*, *dederunt*, *unius*, *utrius*, *ubique*, *utique*, *texeritis*.
+
+2. Give the syncopated forms of—*depositis*, *poculum*, *dextera*, *pueritia*, *lamina*, *dixisti*, *calida*.
+
+3. Give the rules and exceptions for quantity of final -*us*; final -*as*, -*i*, -*e*.
+
+4. Mark the syllables not marked in—*equidēm*, *hodiē*, *quarē*, *redĭit*, *nesciŏ*, *homŏ*, *humānus*, *natūră*, *āssĕverō*, *irrităt*, *aĕră*, *radicēs*, *dividō*, *reliquit*, *reliquŏs*; and the penults of—*darĭ*, *stabĭt*, *statŭr*, *datŭr*, *dabăt*, *dată*, *stabăt*.
+
+5. When is a syllable, short of itself, common by position? What are the exceptions to the rule?
+
+6. Give the dissyllabic perfects with short penult.
+
+7. How may a verse in elegiacs end with a monosyllable? Give an example.
+
+8. Comment on the scanning of—(1) "... *procumbĭt humĭ bos*" (ending a hexameter). (2) "*Atquĕ lĕvem stipŭlam crepitantibŭs urĕre flammĭs*." (3) "*Monstrum horrendum, informĕ, ingens, cui lumen ademptum*." (4) "*Quadrupedante putrem sonitu quatit ungula campum*." (5) "*Indevitato transfigit pectora telo*."
+
+9. Criticize this attempt at a pentameter— *Qua tecum aeterna felicitate fruar*.
+
+JUNIOR SCHOLARSHIP PAPERS.
+
+61.
+
+1. Give the gen. sing., gender, meaning, of—vena, venia, verna, herus, heres, decor, decus, quadriga, lixa.
+2. Give other forms of—materia, plebs, nocte, luxuria, aëra, Æneam, Cybeles.
+3. Give the adjectives, with meanings, formed from—heri, cras, hodie; and the meanings of—bimestris, bimus, hornus, matutinus, perendinus.
+4. Distinguish—relēgo, relego; exanimo, examino; invenio, reperio; appello (1st), appello (3rd).
+5. Put into Latin—(1) "I am persuaded against going;" (2) "I am persuaded that this is true;" (3) "I have ascertained that this is true;" using in (2) and (3) habeo with perf. participle.
+6. How would you render "keeps" in—(1) "He keeps asking;" (2) "He keeps animals;" (3) "He keeps the feast"?
+7. Give the perf., sup., inf., meaning, of—sterto, rudo, vaticinor, exardesco, haurio, fulcio, hinnio, meto.
+8. When is coeptus sum used instead of coepi? Give examples.
+9. Translate—(1) Re infecta, redibant. (2) Fere nemo advenit. (3) Haec quàm gravissime tulit. (4) Id animum adverterant. (5) Mortem sibi consciverat. (6) Post decimum annum quàm ortum est bellum finem cepit.
+
+LATIN GRAMMAR AND
+
+62.
+
+1. Distinguish—*modus, modius*; *mos, mores*; *mores, moras*; *gener, genus, gens*; *foros, forum, fores*.
+
+2. Give the acc. sing., gender, and meaning of—*sitis, sementis, securis, buris, strigilis, clavis, op-, prec-, dap-*.
+
+*3. Decline in sing.—alius, uter, tantus, ipse, iste.*
+
+4. Parse—*quă, cujum, nostratis, quicquid*.
+
+5. Give the Latin for—(1) "All the best citizens." (2) "Up to the twelfth hour." (3) "He came as fast as he could." (4) "He was prudent from boyhood." (5) "He worked as long as he lived."
+
+6. Write sentences containing the perf. participles of—*comitor, venio, circumvenio, impero, juro*.
+
+7. What is the force of the prefix *ve-*? Give examples.
+
+8. What words of decl. 3 in *-ex* are feminine?
+
+9. Parse—*reduces, reduces, isti* (verb), *ademptus, consitus, illitus, metatus*.
+
+10. Put into Latin (*oratio obliqua*)—"Why (he replied) need he hurry? There remained some few days, in which he could do all that they wanted."
+
+11. Rewrite in *oratio recta*—(*Orabant*) *ut sibi auxilium ferret, quod graviter a Suevis premerentur*.
+
+JUNIOR SCHOLARSHIP PAPERS.
+
+
+63.
+
+1. Give the gen. sing., gen. plur., gender, meaning, of—
+ala, ales, pater, canis, apis, avis, avus, senex.
+2. What words of decl. 3 in -l are masculine?
+3. Give the nom. plur. and meaning of—ros, rus, far, dos,
+frons (2), cinis, pulvis, fax, mas, acus.
+4. Give all the meanings of—comae, manus, ludus, aestus;
+and parse in as many ways as possible—comes,
+voces, serius, seras.
+5. Give the Latin for—"by your leave;" "under your
+authority;" "under your guidance;" "in your
+judgment."
+6. Give one example of—gen. of quality; abl. of agent;
+dat. of agent; acc. of limitation.
+7. Conjugate in all forms—redeo in pres. ind.; ědo in
+pres. ind.; fleo in perf. ind.; fio in imperf. subj.;
+memini in imperat.
+8. Put into Latin—(1) "Had you come, I should have
+stayed." (2) "I should be staying if you had not
+come." (3) "I shall do it if I am able." (4)
+"He gives money if he has it."
+9. Put into Latin form—April 17th, October 4th,
+January 27th, July 13th, May 9th, December 12th.
+10. Compare—nuper, secus, satis, mature, parum; and give
+the other degrees of comparison of—serius, ocius,
+magis, plus.
+11. Distinguish the meanings of magis and plus.
+LATIN GRAMMAR AND
+
+64.
+
+1. Decline in sing.—*facinus*, *onus*, *genu*, *tellus*, *caro*, *Tiberis*, *aes*.
+
+2. Distinguish—*comes*, *sodalis*, *socius*; *amnis*, *rivus*; *mălă*, *mālā*, *mālā*; *pīlā*, *pilă* (sing.); *pīlum*, *pileus*; *leporis*, *leporīs*.
+
+3. Parse in as many ways as possible—*velīs*, *miserīs*, *sede*, *senī*, *passŭs*.
+
+4. Give the Latin numerals from 8 to 13, in all forms.
+
+[5. Explain the principle of reduplication.]
+
+6. Put into Latin—(1) "He is not the man to speak." (2) "He was worthy to be loved." (3) "We will send a man to speak." (4) "He made it his one object to speak." (5) "He has put me under a very great obligation" (using *mereor*).
+
+7. Translate—(1) *Haec hactenus*. (2) *Quid quod talia dixi*? (3) *Quo fuit luctari*? (4) *In eo erat ut iret*.
+
+8. Give the Latin for—⅓, ⅔, ⅛; and the following fractions of the as—⅓, ⅔, ⅙.
+
+9. What prepositions are found with two cases?
+
+10. Give one example of—attraction, synesis, prolepsis, ellipse of interrogative particle in a double question.
+
+JUNIOR SCHOLARSHIP PAPERS.
+
+65.
+
+1. Give the adverbs formed from or connected with—
+rapio, adfari, abundo, fundamentum, vir, rex.
+2. Give an instance of se or suus not referring to the subject of the sentence.
+3. How are ne quidem, non modo (followed by ne quidem), nedum, ne dicam, utique, nec non, haud, ne non, dumtaxat, used?
+4. Mark the quantities of—Titanas, salus, seges, choreas, Diana, ubi, nisi, exiit, arbore; and the gen. sing. of obex. How may tenuia and the abl. sing. of abies, păries, scan so as to suit elegiac metre?
+5. Distinguish—cruor, sanguis; venio, veneo; colo, colo; praedico, praedico; lēgo, lego; pāret, păret.
+6. Translate—Favete linguis, and explain the meaning.
+7. When the Romans took Epidamnus, its name was changed to Dyrrachium. Why?
+8. Parse—[infit, agesis, siet,] quaesumus, surrexe, lăvit, fervit.
+9. Translate—(1) Nulla non donandus lauro. (2) Ex sententia navigarat. (3) Dat brachia collo. (4) Amico verba dedit. (5) Vela dabo. (6) Poenas dederant.
+10. Put into Latin in two ways—"I surround (circumdo) the city with a wall."
+LATIN GRAMMAR AND
+
+66.
+
+1. What suffixes are used to strengthen pronouns?
+Give examples of pronouns so strengthened with each.
+
+2. Express, by means of examples of words compounded with them, the forces of the prefixes de-, dis-, se-, ve-.
+
+3. Distinguish—*amans*, *amens*; *irritus*, *irritatus*; *dulcis*, *suavis*; *inimicus*, *hostis*; *callidus*, *calidus*.
+
+4. Put into Latin—(1) "The war cost the Romans much blood." (2) "A learned man, and he too emperor." (3) "On unfavourable ground." (4) "To serve in the army." (5) "He threatens me with death."
+
+5. What old forms are there of the gen. sing. 1st decl.?
+
+6. Give examples in pres. inf. act. of—frequentative, inceptive, desiderative, and diminutive verbs.
+
+7. Give the perf., sup., inf., and meaning of—*poto*, *algeo*, *ferveo*, *praesto*, *pergo*, *tondeo*, *coquo*, *infligo*, *profligo*, *fugo*, *pallesco*, *tero*, *inveterasco*.
+
+8. Go through the tenses—(1) "I must be spared" (gerundive). (2) "I was intending to come." (3) "I might have gone" (using *licet*).
+
+9. Put into Latin—(1) "He promised to come." (2) "He said that he would have come, had you ordered." (3) "They hoped that he would come." (4) "Do you not know what sort of a man he was?"
+JUNIOR SCHOLARSHIP PAPERS.
+
+67.
+1. Rewrite in oratio recta—_Se, quem omnes odissent, nihil in se admisse cur capitis damnaretur. Ne in innocentem animadverterent, nisi quidem deos pro nihilo haberent._
+
+
+2. Give the gen. sing., gender, meaning, of—_ver_, _supellex_, _foenus_, _socer_, _socrus_, _nepos_, _robur_, _vas_ (2).
+
+
+3. Put into Latin—(1) "I will go, on condition that you accompany me." (2) "Talking and doing are two very different things." (3) "They had consulted me whether in doing this they would be consulting their own interests." (4) "He has deserved well of his country."
+
+
+4. Translate—(1) _Quid sibi vult?_ (2) _Perhibent me talia fecisse._ (3) _Quotus es?_ (4) _Tua res agitur._
+
+
+5. Give one example of—hypallage, zeugma, asyndeton, oxymoron, synesis.
+
+
+6. Give full rules for putting "any" into Latin.
+
+
+7. Give the feminines of—_nepos_, _gener_, _socer_, _avus_.
+
+
+8. Give the rule for verb of conj. 3 in -_io_ dropping the _i_.
+
+
+9. What case-constructions follow—_nupta_, _impotens_, _dissimilis_, _amans_, _liber_, _edax_, _fletus_?
+
+
+10. Give one example of—ethic dat.; abl. of quality; dat. of complement (or predicate); gen. of price.
+
+
+11. Translate—_Haec flocci aestimat_; and compare similar expressions.
+
+LATIN GRAMMAR AND
+
+68.
+
+1. What parisyllabics of decl. 3 make gen. plur. in -um for -ium?
+
+2. Give the gen. sing., gender, meaning, of—*nectar*, *sal*, *fel*, *nidus*, *nidor*, *olus*, *tus*, *grus*, *nix*, *crus*.
+
+[3. What adjectives would you use in?—(1) "Enter my humble roof, such as it is." (2) "Hear my vows, such as they are."]
+
+4. Put into Latin—(1) "I know not how many of you there are." (2) "I knew not how many of us there were." (3) "He brought with him as many books as he had."
+
+5. *Aspice quàm rapidis volvitur amnis aquis !* Translate, and say if correction is needed or not, and why.
+
+6. What is meant by a "pure conjunctive" or a "pure use" of the subjunctive? Classify the pure uses, with examples.
+
+7. Give the roots of—*femina*, *lucidus*, and words formed from the same roots.
+
+8. How are *ergo*, *erga*, *vae*, *propior*, *proxime*, *instar*, used governing cases? Give examples.
+
+9. Translate—(1) *Scimus urbem oppugnari.* (2) *Scimus urbem expugnatam esse.* (3) *Scimus fore ut urbs expugnetur.* (4) *Scimus urbem expugnandam fuisse.*
+
+10. Give four examples of intransitive verbs becoming transitive in composition.
+JUNIOR SCHOLARSHIP PAPERS.
+
+69.
+
+1. What words of decl. I make dat. plur. in -abus?
+2. Mention six adjectives declined like *acer*; and say which of the following are like *totus*:-*solus*, *tantus*, *ullus*, *quantus*, *uter*, *unus*, *quotus*.
+3. Give other ways of spelling—*maximus*, *libet*, *toties*, *religio*, *oves* (acc.), *rejicit*, *mulcto*, *Virgilius*, *Sulla*.
+4. Put into Latin—(1) "They hate each other." (2) "Some say one thing, some another." (3) "The one hated the other."
+5. Distinguish between co-ordinate and subordinate conjunctions; and classify the latter, with an example of each.
+6. What verbs of asking govern two accusatives? State the case-constructions that follow—*irascor*, *nitor*, *fungor*, *misereor*, *nanciscor*, *faveo*, *rideo*, *suadeo*.
+[7. Give examples of *credo*, used (1) personally, and (2) impersonally in the passive voice. What author uses (1)?]
+8. In what months were the Nones on the 7th?
+9. What fractions of the *as* are represented by—*bes*, *dodrans*, *quincunx*, *sextans*?
+10. Give the Latin, in words and symbols, for—55, 88, 101, 200, 500, 767, 1000, 10,000.
+[11. What verbs with reduplicated perf. preserve the reduplication in composition?]
+LATIN GRAMMAR AND
+
+70.
+
+1. Distinguish—*astrum*, *sidus*, *stella*; *culpa*, *vitium*; *donum*, *munus*; *fructus*, *fruges*, *seges*; *dominus*, *magister*; *patria*, *terra*, *rus*.
+2. Give the diminutives of—*frigidus*, *lentus*, *parma*; and patronymics masc. and fem. of—Peleus, Thestius.
+3. Decline—in sing. the Latin for "no man;" in plur. the Latin for "all things."
+4. Distinguish between the substantival and adjectival forms of *quis* (indef. and interrog.). Quote an example of the distinct usage not observed.
+5. Give the Latin for—(1) "Not even in joke." (2) "One should cultivate filial affection." (3) "One should obey a father's command." (4) "We need but little." (5) "He has uttered many untruths."
+[6. Put into Latin, in epistolary style—"January 19, Bath. My dear Quintus, I am writing in order to find out what you are doing in my absence. Do write back at once. Affectionately yours, Marcus."]
+7. Give the meanings of—*sectatus*, *sectus*, *impetratus*, *imperatus*, *juratus*, *potus*, *pactus*, *circumdatus*, *fatus*.
+[8. Explain the accusative in—*Suspensi tabulam loculosque lacerto*.]
+9. Give the peculiar forces of—*siccine*? *ergo*! *nonne*? *at* (introducing an exclamation), *quid quod*? *quodsi*, *sin*, *sin minus*, beginning sentences.
+JUNIOR SCHOLARSHIP PAPERS.
+
+71.
+
+1. Distinguish—*absum*, *desum*; *prosum*, *praesum*; *amitto*, *perdo*; *specto*, *aspicio*, *video*, *cerno*; *cogito*, *existimo*, *puto*; *dico*, *loquor*, *inquam*; *egeo*, *careo*, *indigeo*; *jubeo*, *impero*; *laedo*, *noceo*; *metuo*, *timeo*, *vereor*; *peto*, *quaero*.
+
+[2. Translate — *Nihil tetigit quod non ornavit*; and criticize the mood of *ornaviť*.]
+
+3. Give the gen. sing., gender, meaning, of—*annona*, *parricida*, *tubicen*, *tibicen* (mark the quantities of the penults of these two), *imber*, *imbrex*, *tridens*, *ternio*, *semis*, *bes*, *teges*, *virus*, *Adria*.
+
+4. Give the difference of meanings in sing. and plur. of—*aedes*, *pars*, *carcer*, *opera*, *littera*, *finis*, *sal*.
+
+5. Give the gen. plur. of—*civitas*, *mensis*, *animal*, *parens*, *penates*, *frater*, *panis*, *dens*, *trabs*, *optimates*, *vis*, *senex*, *pater*.
+
+6. Parse in as many ways as possible, with meanings—*pandi*, *teres*, *jugis*, *confertis*, *simulatque*, *dedi*.
+
+7. Decline the verb-noun "saying" (*dico*); and give an example of the use of each case.
+
+8. Rewrite in *oratio obliqua*—" *Illae*," *inquit*, "*aquae, quas videtis*" (*flumen enim haud longè aberat*), "*et nos et hostes patria intercludunt*."
+
+9. Give the meaning of the roots—*ac-*, *tag-*, *cre-*, *pen-*, and two words derived from each.
+
+LATIN GRAMMAR AND
+
+72.
+
+1. Give the meanings of—*barbatus*, *alatus*, *quernus*, *hesternus*, *perendinus*, *cotidianus*, *fissilis*, *caeles*.
+
+2. What words in *-ur*, *-n*, *-l*, of decl. 3 are not neuter?
+
+3. Put into Latin—(1) "A place made for ambush." (2) "They fought a drawn battle." (3) "He killed the good and bad alike." (4) "I cannot but go."
+
+4. Translate—(1) *Pactae sunt indutiae.* (2) *Foedus feriunt.* (3) *Sextum apud lapidem ab urbe.* (4) *Pro re nata.* (5) *Paulo iracundior est.*
+
+5. Collect the pres. subjs. act. ending in *-im*, giving the verb from which each comes, with meaning.
+
+6. Give each participle that can be used in the masc. gender, with meaning, from—*duco*, *jubeo*, *subvenio*, *adipiscor*, *utor*, *vito*, *fugo*, *fugio*, *praecipio*.
+
+7. Put into Latin—(1) "I know that he is wise." (2) "No one doubted that he was wise." (3) "He hopes some day to be wise." (4) "Added to this, he is wise" (two ways).
+
+8. Put into Latin style—"On the thirtieth of March, B.C. 468."
+
+9. What is the historic inf.? and when is it generally used?
+
+10. Give all the meanings of—*corona*, *munera*, *robur*, *ambire*, *audire*.
+
+11. Derive—*bruma*, *pecunia*, *egregius*, *discrimen*, *exul*, *digitus*, *furtim*, *arvum*.
+
+JUNIOR SCHOLARSHIP PAPERS.
+
+
+73.
+
+1. Show by examples the usage of —*dum* with ind. and subj.; *quum* with plup.; *ut* consecutive with perf. subj. in historic sequence.
+
+*2.* Decline in agreement the Latin for—"one wall (*moenia*);" "two camps;" "two hundred host-ages."*
+
+3. Give other forms of—*duos, duorum, terni;* and give the Latin for—60, 70, 80, 90, in cardinals, ordinals, and numeral adverbs.
+
+4. What are the two ways of putting such numbers as 21 in Latin? Also of putting such ordinals as "twenty-first"?
+
+5. Translate—(1) *Heres ex dextante est.* (2) *Peculium servo meo servandum fuit.* (3) *Urbem oppugnandam curabit.* [(4) *Pontem faciendum conduxit.* (5) *Portam aedificandam locabant.*] (6) *Facies rosas imitata est.*
+
+6. Put into Latin—(1) "He assembled the tribes." (2) "The tribes assembled." (3) "They dressed with all speed." (4) "No degree of speed."
+
+7. Translate—[(1) *Ubi ad plaudite ventum erat.* (2) *Tollitur aulaeum.* (3) *Premitur aulaeum.*] (4) *Histrionis est sui oblivisci.* (5) *Nunquam non suas res augebat.*
+
+8. Give the different Latin phrases for "to marry," distinguishing between their uses; [also for—"to lend," " to borrow "].
+LATIN GRAMMAR AND
+
+74.
+
+1. Form substantives expressing—male and female agent from *testor*; quality of *simplex*; masc. of *Lacaena*; fem. of *Tyndarides*.
+
+[2. Distinguish between *sestertius* and *sestertium*; and give money value of HS.MD. (the coin) and HS. *undecies*.]
+
+3. Give instances of prepositions used as adverbs.
+
+4. What case-constructions follow—*supersedeo, praesto, posthabeo, potens, indignus, prodigus*?
+
+5. Mark the penults of—*maledico, maledicus, matricida, telluris, fiunt, matris, audiverimus*.
+
+6. Might a hexameter end with *quin moenia scandis*? or with *luce smaragdi*? Is there any objection to *luceque solis*?
+
+7. Compare the adverbs from—*prae, infra, post, de*; and the one preposition that is compared.
+
+8. Put into Latin—"Woe to thee!" "Well done, my son;" "For shame!" and translate—*Per tibi ego hunc jurata pium castumque cruorem*.
+
+9. Translate and say what figures are contained in—
+(1) *Sic ore locuta est*. (2) *Sermo torrentior Isaeo*.
+(3) *Dat classibus Austros*. (4) *Inceptoque et sedibus haeret in isdem*. (5) *Non unam viderat urbem*.
+(6) *Pateris libamus et auro*. (7) *Splendide mendax*. (8) *Perrupit Acheronta Herculeus labor*.
+
+10. Distinguish—*jus, jus; lira, lyra; proceri, proceres; quisquis, quicumque; quisquam, quivis*.
+
+JUNIOR SCHOLARSHIP PAPERS.
+
+75.
+
+1. Give all the Latin words meaning—"too much," "again," "in vain," "immediately," "formerly," "again and again," "almost."
+2. Decline in sing.—Tiberis (give other ways of spelling), Tibur; and give gender and meaning of these and of—Tempe, Hadria, Syrtes:
+3. Give an example of each use of quin.
+4. Distinguish between spina flosculis canente and spina flosculis canenti.
+5. Parse in as many ways as you can—manet, casum, feris, ferri, supplices, portas, victum.
+6. Distinguish—fasti, fastus; occido, occido; acies, agmen; puppis, prora, carina; dicta dare, verba dare.
+7. Give other forms for—moliebar, imperari, juraveras, moneberis, editur, faciam, affore.
+8. Give the meanings of—exulat, vapulat, licetur, liquet, constat (impers.), sibi constat, boni consulit.
+9. What prepositions would you use in—"I cannot see for tears;" "love towards God;" "a bed of roses;" "after this, therefore because of this;" "behind the battle"?
+10. Give, with examples, the various meanings of pro (preposition).
+11. Compound—gero with sub-; ago with per-, circum-, de-; frango with re-; lego with per-; quatio with de-; cano with sub-; lego with cum-.
+LATIN GRAMMAR AND
+
+76.
+
+1. In what meanings is *qui* followed by subjunctive?
+Give one example of each.
+
+2. How are final and consecutive sentences constructed, (1) positively, (2) negatively?
+
+3. Is there any difference of meaning between *Ita surdus erat, ut nihil audiret,* and *Ita surdus erat ut nihil audiverit*?
+
+[4. Translate—*Opus est maturè facto*; and give similar uses of a participle.]
+
+[5. By what figures is concord varied? Is *Ego et ille scelus domum rediit* defensible?]
+
+*6. Decline domus* throughout; and give the cases of the word implying "to," "from," "at."*
+
+7. Give the rules and exceptions for genders of words in -er.
+
+8. Distinguish—*flamines, flamina; ventus, aura, flamen* (neut.); *vas, praes; plăga, plāga; mulceo, mulgeo; mico, luceo, candeo; vallis, vallum; animus, anima; queritur, quaeritur; templum, aedes; ager, agger; aratrum, buris, vomer.*
+
+9. Give all the meanings of—*caput, partes, signum, discrimen, aestus, Venus* (sing. and plur.).
+
+10. Translate—(1) *Rerum novarum cupidus.* (2) *Supplicatio aliquot dierum decreta est.* (3) *Pater patriae audies.* (4) *Tricena stipendia meritus erat.* (5) *Pacem impetrarant.* (6) *Nihil reliqui faciunt quominus fugiamus.*
+
+JUNIOR SCHOLARSHIP PAPERS.
+
+77.
+
+1. Give the rules and exceptions for quantity of short vowel before mute and liquid in the same word; final -*a*; final -*e* in adverbs.
+
+2. Parse in as many ways as possible, distinguishing quantities and giving meanings—*artis, reliqui, rei, novi, vincis, ora, manibus, bellum, pugnis*.
+
+3. Go through the tenses—(1) "I must use a sword." (2) "I had been meaning to come." (3) "I am obeyed."
+
+4. Give the Latin for—(1) "If I have anything, I give it." (2) "If I had had anything, I would have given it." (3) "Had I anything, I would give it." (4) "If I have anything, I will give it." (5) "He said that if he had anything, he would give it." (6) "He said that if he had had anything, he would have given it."
+
+5. Give the perf., sup., inf., and meaning of—*emo, absorbeo, sculpo, tendo, consulo, frendo, pluo, operio*; and all forms of the supines of—*lavo, poto, plico, pario, tundo, alo*.
+
+6. Compare those adjectives of the following which admit of comparison:—*benevolus, mirus, ocior, trux, ligneus, ferus, serus, proprius*.
+
+7. Give the Latin for—"thirty," "thirtieth," "forty," "fortieth," "fifty," "fiftieth," "six hundred," "six hundredth," "seventy times," "eighty each," "four hundred each," "five hundred times."
+
+LATIN GRAMMAR AND
+
+78.
+
+1. Distinguish—*caducus*, *caduceus*; *rus*, *patria*; *magis*, *plus*; *nidor*, *odor*; *saepes*, *caepe*, *saepe*; *annus*, *annulus*.
+
+2. What adjectives mean—"too much," "of to-morrow," "of to-day," "of yesterday," "daily," "of this year," "of the day after to-morrow," "of the day," "of the night," "of the morning," "of the evening"?
+
+3. Give the meanings of—*nundinae*, *crepuscula*, *nugae*, *infitiae*, *exsequiae*, *spolia*, *subsidia*, *tiro*, *vicarius*.
+
+4. Give one example of—partitive gen.; gen. of quality; gen. of value; elliptic gen.; subjective gen.; objective gen.
+
+5. Give the force of the substantival terminations *-ile*, *-arium*, *-etum*, *-ades*, *-trix*, *-leus*; with one example of each.
+
+6. Put into Latin—(1) "I shall go, whether he goes or not." (2) "Who knows whether he goes or not?" (3) "I asked him if he had gone or not."
+
+7. What moods in *oratio recta* follow—*quod*, *quia*, *licet*, *quamvis*, *quum* (temporal), *quin* (interrog.)?
+
+8. Give all the words for—"but" (co-ordinative); "both . . . and."
+
+9. Give the Latin for—⅘, ⅝, ½, ¼, 1,000,000 sestertia.
+
+JUNIOR SCHOLARSHIP PAPERS.
+
+79.
+
+1. Give the force of the adjectival terminations -*cundus*, -*ilis*, -*tilis*, -*ax*, -*eus*, -*osus*, -*ensis*; with one example of each.
+
+2. On what days did the Nones and Ides fall in March, April, May, June, July? Give the Latin for—January 18th, February 10th, December 3rd.
+
+3. Write out in full—"A.D. XIII. Kal. Nov.;" and explain the form.
+
+4. Give the Latin for—(1) "I have his money." (2) "He loves his money." (3) "He takes their money." Remove the ambiguity from—*Caesar suos implorat ne de sua virtute desperent*.
+
+5. Of what figures are the following examples?—(1) "Faith unfaithful kept him falsely true." (2) "Holy and humble men of heart." (3) *Pontus Euxinus*. (4) "I have lived there, man and boy, fifty years." (5) "His heavy-shotted hammock-shroud." (6) "Winds that blow the poplar white." (7) *Ratio consentit, repugnat oratio*.
+
+6. Give the genders of—*vulpes, cupido, margo, finis, ternio, seges, rus, ros, tus, dies, gradus, tribus*.
+
+7. Rewrite in *oratio recta*—( *At contra dux*) *si quis suis mandatis parere nollet, illi moriendum esse. Sibi placitum esse in eos animadvertere qui se nihili facerent. Nonne ergo viribus et gladiis uti vellent? Ne occasionem victoriam reportandi amitterent!*
+
+LATIN GRAMMAR AND
+
+80.
+
+1. Verbs of what meanings, which in English are followed by the sign "to," in Latin take final construction? and what are the exceptions to the rule?
+
+2. What case-constructions follow—animadverto, accuso, moderor, tempero, refert, dicor, succenseo, permuto, fugio, miseresco, incumbo, miseret?
+
+3. Put into Latin—"Such being the case," in primary and historic sequence.
+
+4. Distinguish between *Trecenti Galli aderant* and *Trecenti Gallorum aderant*.
+
+5. How are the following used?—haud, quippe, utpote, neu, ceu, utinam.
+
+6. Give examples of cases in which the trans. gerund with object would be preferable to the gerundive attraction.
+
+7. Give examples of participles used as adjectives and followed by the genitive. Has *possum* any participle?
+
+8. Go through the tense—"It concerns (interest) me."
+
+9. When may *quidam* be omitted after a comparative? Write a sentence from which it could not be omitted.
+
+10. Derive—templum, immolo, oratio, nihil, [addo,] sestertius, [Annus Bissextus,] cotidie, rursus, [mediusfidius,] sodes, [simplex.]
+
+JUNIOR SCHOLARSHIP PAPERS.
+
+81.
+
+1. Make a scheme of primary and historic tenses in the ind. and subj. moods; and state how the perf. subj. can stand after *ut* in historic sequence.
+2. Give the gen. sing., gender, and meaning of—*ancile, duellum, conviva, humus, meridies, auceps, tigris, sus*.
+3. Mention six nouns of decl. 3 that make acc. in *-im*, abl. in *-i*.
+4. Give the meanings and case-constructions of—*satus, impotens, affinis, par, dispar, memor, doctus*.
+5. Give an example of the ethic dat.; and compare it with a similar construction in English.
+6. Give one example of each construction of the "agent."
+7. Put into Latin in as many ways as possible—"None but you came."
+8. Explain the terms—apodosis, protasis, synesis, oxymoron, alliteration, paronomasia.
+9. Distinguish—*në, nē; quisquam, ullus; alias, alibi; exanimatus, examinatus; juro, pejero; acceptum referre, expensum referre*.
+10. Translate—(1) *Qui nimis emungit, sanguinem elicit*. (2) *Noluit, ut posset, me perdere*. (3) *Dono dedit*. (4) *Salvo pudore redii*. (5) *Auctore Phoebo Troja resurgit*.
+[11. Show by example the forces of *malè* added to an adjective.]
+
+G
+
+LATIN GRAMMAR AND
+
+82.
+
+1. Give other forms and meanings of—*plebs*, *penus*, *materia*, *vesper*, *jecoris*, *requietem*, *feminis*.
+
+2. Decline in agreement—(1) in sing.: *alia celeris acus*; (2) in plur.: the Latin for "more" (*plus*), "famous" (*celeber*), "states" (*civitas*).*
+
+3. Put into Latin—(1) "I came instead of him." (2) "He retired instead of attacking the city." (3) "He is so far from hating me, he loves me." (4) "The task was too great for him to undertake." (5) "This is the same as that."
+
+4. Translate—(1) *Haud scio an sapiens sit*. (2) *Quod sciam*. (3) *Non est is qui hoc faciat*. (4) *Inimicum captum interfecit*. (5) *Servum misit quem fidissimum habuit*.
+
+5. Translate and rewrite in *oratio recta*—(*Nuntiavit*) se, qui talia commemoraret, re infecta rediisse: neque tamen ea lege redire, ut capitis damnaretur.
+
+6. Derive—*scilicet*; and compare words of similar formation.
+
+7. Parse in as many ways as possible, marking difference of quantity—*nitere, probo, potis, face*.
+
+8. What is the force of the prefix *in*—*desuesco, ineo, imprudens, semifer, secludo, semestris, dispertior*?
+
+9. Distinguish—*nihil non, non nihil; non nunquam, non unquam; non nemo, nemo non*.
+
+JUNIOR SCHOLARSHIP PAPERS.
+
+
+83.
+
+1. Put into Latin in two ways—(1) "They believe that the city will be taken." (2) "They believed that the city would be taken."
+
+2. Put into Latin—(1) "He believed that I was sane." (2) "He believes that I was sane." (3) "He said I was not sane." (4) "He promised to return."
+
+3. Distinguish—*libri*, *liberi*; *libra*, *liber*; *libro*, *libo*; [*libertus*, *libertinus*.] What two meanings has *liberi*, and why?
+
+4. Give one example of—aposiopesis, hysteron proteron, metonymy, zeugma, hyperbole, litotes.
+
+5. Give one example of *credo*, used in passive, (1) personally, (2) impersonally.
+
+6. Are the following correct?—(1) *Nescio quid dixit*. (2) *Nescio quis venit*. (3) *Nescio quis veniat*. Translate them carefully.
+
+7. What moods in *oratio recta* follow—(1) *sunt qui*; (2) *quod*; (3) *accēdit ut*; (4) *ut* (as); (5) *ut* (although); (6) *ut* (when); (7) *quando*; (8) *quia*; (9) *licet*; (10) *tanquam*?
+
+8. Put into Latin—(1) "What is o'clock?" (2) "Where do you stand in numerical order?" (3) "Tell me how many you are." [ (4) "What fraction of the money have you?"]
+
+9. Explain—[*soluta oratio*; *numeri*; *pressa verba*; *exquisita verba*; *currente calamo scribere*; *stilum vertere*.
+LATIN GRAMMAR AND
+
+84.
+
+1. Analyse into subject, predicate, copula, complement, attribute, object—(1) Ut melius quidquid erit pati! (2) Non humilis mulier mori quam mortem vitare maluit. (3) Non mihi cordi est easdem ineptias millies audire.
+
+2. Translate—(1) verto solum; (2) verto stilum; (3) vertor in alitem; (4) versus sum in beluam.
+
+3. Translate—(1) Non solvendo sum. (2) In meis nummis sum. (3) In aere alieno sum.
+
+4. Give eight examples of the dative of the complement (predicative dat.).
+
+5. Give examples of—fallo, fugio, consto, used (1) personally, (2) impersonally. Which of these are sometimes transitive? Give an example of sileo in the pass. voice.
+
+6. Give examples of the use of the supines.
+
+7. Give each participle that can be used in nom. plur. masc., with meaning, from—nanciscor, satisfacio, credo, advenio, reverto, committo, noceo.
+
+8. Derive—negotium, vecors, aedifico, Idus, incola.
+
+[9. In what different senses are—(1) medius; (2) aequalis; (3) secundus; (4) rectus; (5) justus, used?]
+
+10. Give Latin words from the same roots as—punio, munio, tuli, mollis, caelare, janua, fruges.
+
+JUNIOR SCHOLARSHIP PAPERS.
+
+85.
+
+1. Give the Latin for—20th, 21st (two ways), 13th, 213th, once, twice, three times, four times, 40 times, 6 each, 2000 each, 1000 men, 2000 men; and put into classical style—B.C. 714.
+2. Distinguish—*lacertus*, *lacerta*; *cornus*, *cornu*; *aerugo*, *robigo*, *ferrugo*; *ăvia*, *āvia*; *patruus*, *avunculus*; *cupido*, *cupido*.
+3. Of what words are *denuo*, *quoniam*, *rursus*, *quorsum*, *nemo*, *nihil*, *nempe*, *cunctus*, contractions?
+4. Decline—*nescio-quis*; and give an example of the use of each case.
+5. Give the adjectives formed from—*volo* (1st), *mitto*, *cado*, *ĕdo*, *loquor*, *pater*, *mater*, *avus*, *consul*, *Athenae*, *Cannae*.
+6. What is the regular form for entrusting the consuls with dictatorial powers? Give it in primary and historic sequence.
+7. Put into Latin in two ways—"We encamped five miles from the city." Decline in plur. the Latin for "a mile."
+8. Translate—(1) *Fabio senatus datur*. (2) *Alteris castris perveni*. (3) *Flumen ponte junget*. (4) *Utrum jure an injuria factum sit in dubio est*.
+9. Give all the Latin words for—"perhaps," "often," "sometimes," "always," "every," "too" (adverb and conjunction).
+
+LATIN GRAMMAR AND
+
+86.
+
+1. How is *unus* used in plural? Give examples. Translate—(1) *Tua unius opera salvus sum.* (2) *Caius una venit.* (3) *Tibi uni cedimus.*
+2. Give the meanings and acc. sing. of the adjectives—*vafer, saluber, frugifer, dis, satur, armiger, degener.*
+3. Give all the Latin words for "old." Which of them would you use to express (1) "old-fashioned," (2) "aged"?
+4. Give the English for—*expeditus, impeditus, morigerus, mortifer, letalis, disertus, facundus, pernix.*
+5. Translate—(1) *Heri e vita excessit.* (2) *Res sanè quam nova est.* (3) *Quid sibi majores nostri vole-bant?* (4) *Altero oculo captus.* (5) *Mutuas pecunias dabo.* (6) *Pecunias mutuabor.* (7) *Non modo rationi sed ne prudentiae quidem consentit.*
+6. How do you multiply CIƆ. by 10? How do you multiply IƆ. by 10? Give the value of CCCIƆƆ., IƆƆƆƆ., CCIƆCCCIƆƆ.
+7. Explain the abbreviations—S.C., S.P.Q.R., D.O.M., P.C., N.L., Coss., S.P.D.
+8. What parts of a deponent verb have (1) active form, (2) passive meaning?
+[9. Translate and comment on the use of pronouns in—"*Et flesti et nostros vidisti flentis ocellos, Miscuimus lacrimas maestus uterque suas."*
+
+JUNIOR SCHOLARSHIP PAPERS.
+
+87.
+
+[1. Translate and comment on the tenses in—(1) *Illius
+immensae ruperunt horrea messes*. (2) *Gaudet in-
+visam pepulisse terram Ter pede fossor*. (3) *Nunc
+bibere tempus erat*.]
+2. Give, by means of examples with nouns, the meanings
+of—*pro*, *prae*, *propter*, *ob*, *sub*, *hei*.
+3. From what verbs do the following words come?—
+*nerunt*, *commentus*, *rati*, *sivit*, *passis*, *refertis*, *ablatis*,
+*fultus*, *scissus*.
+4. Distinguish—*ēdi*, *ědi*; *incīdi*, *incĭdi*; *oblītus*, *oblĭtus*;
+*condītus*, *condĭtus*; *jacet*, *jaciet*; *redūci*, *redŭci*.
+5. Compare—*parum*, *crebro*, *nuper*, *frugi*, *nequam*.
+6. Parse—*gratis*, *satius*, *fuat*, *duim*, *ausit*.
+7. Rewrite in *oratio obliqua*—*Quid in me animadver-
+tistis*? *Nihil dixi, feci, cogitavi, cur poena mihi
+danda sit*. *Absolvite reum, cujus innocentia jam
+vobis probata est*.
+8. Give the rule for questions in *oratio obliqua*.
+9. Give all the parts used of *fari* and *inquam*.
+10. Explain the term "aorist;" and state how it applies
+to a Latin verb.
+11. From what words are the following contractions?—
+*possum*, *malo*, *nolo*, [*morigeror*].
+LATIN GRAMMAR AND
+
+88.
+
+1. Give a reason why the commonest adjectives are irregularly compared.
+
+2. What is the usual order in a Latin sentence consisting of subject, verb, adverb, and object? Which are the emphatic places in a sentence?
+
+3. Where does the relative stand in its clause? Mention an instance in which it cannot have its usual place. Put into Latin—"We have been informed of what is done."
+
+4. Give the interrogative particles, with an example of the use of each.
+
+5. How is *ne* with the imperative used? What are the usual forms of prohibitions?
+
+6. Explain "pure conjunctive mood;" and give one example of it as (1) jussive, (2) optative, (3) dubitative.
+
+7. Put into Latin—(1) "It was a long rather than a severe fight" (impersonally). (2) "In the fifth month after setting out" (omit *post*). (3) "He is consistent." (4) "They cried out with one consent." (5) "I cannot do it; much less can you." (6) "Hardly any one came."
+
+8. Distinguish between the substantival and adjectival forms of *quis*, (1) indef., (2) interrog.
+
+9. Give other spelling of—*secutus, repperi, religio, optimus, capiendus, urbes* (acc.).
+
+JUNIOR SCHOLARSHIP PAPERS.
+
+89.
+
+1. Give the gen. sing., gender, and all meanings of—
+aries, cuniculus, conjux, hiemps, sinus, jugum, liber.
+2. Write short sentences containing examples of—at-
+traction, synesis, asyndeton, prolepsis.
+3. Put into Latin—(1) "In my temple and in that of
+Diana." (2) "The famous (pronoun) Cicero." (3)
+"That slave of yours."
+4. Translate—(1) Vereor ut veniat. (2) Verebar ne
+veniretis. (3) Cave tempus absumas. (4) Pos-
+tridie ejus diei pugnatum est. (5) Postridie pugnam
+redivimus. (6) In officio manere.
+5. Give the adverbs meaning—"whither?" "thither,"
+"by which road?" "how far?" "thus far," "at
+another time," "to and fro."
+6. Give other forms for—donari, sentiebam, amavere,
+amaris, novisti, cupivi, audisne? videsne? edit,
+ĕdere, futurum esse.
+7. Give the imperatives of conj. 3 that drop -e in 2nd
+pers. sing. Which of them sometimes keeps the -e?
+8. Explain—semi-deponent, quasi-passive, inceptive,
+desiderative, factitive, frequentative; with an
+example of each in pres. inf.
+9. Give the collective nouns from—pedes, eques, collega,
+sacerdos. How can "soldiery" be expressed?
+10. What substantives can be used in the abl. sing. to
+express "after the likeness of"?
+
+LATIN GRAMMAR AND
+
+90.
+
+1. Give instances in Latin words of onomatopoeia, i.e. words that express their meaning by their sound.
+
+2. What is the force of the epithets in—pellitae oves; impotens ira; avitus fundus; intonsus Cato; anceps Mars; fortuitus caespes; perjura verba?
+
+3. Translate the words of Phœbus to Phaëthon—Finge datos currus: quid ages? Do the two last words admit of more than one rendering?
+
+4. Put into Latin, using certior and facio or fio—(1) "Having informed them of his intention, he de- parted." (2) "Having been informed of the plan; he departed."
+
+5. What moods follow?—(1) Adde quod. (2) Quid quod? (3) Accedit quod. (4) Accedit ut. (5) Sequitur ut. Give examples.
+
+6. Explain—dies fastus; dies nefastus; ["tria verba"].
+
+7. Put into Latin—(1) "Condemned to long toil." (2) "Deprived of his rights as a citizen." (3) "Ac- quitted of the crime." (4) "On trial for high treason and embezzlement."
+
+[8. Translate—(1) Fiat justitia, ruat coelum. (What would it mean if justitium stood for justitia?) (2) Posse mori Tithono fata negarunt. (3) Vic- toriam exploratam habet. (4) Pro viribus nisus es. (5) In eo erat ut abiret.]
+
+9. Distinguish—consilium, concilium; auxilium, auxilia; triumphus, ovatio; pecunia, peculium.
+JUNIOR SCHOLARSHIP PAPERS.
+
+91.
+
+1. Give an example of—(1) summa used as a substantive; (2) gen. of an adjective used partitively as a substantive.
+
+2. Give the meanings of—lucerna, lucrum, lucellum, lucus, lucubrare, lucrari.
+
+3. Give the Latin names for the four winds.
+
+4. What prepositions would you use in the following?—"by the gods;" "by the river;" "from day to day;" "appointed dictator for six months;" "nearer the city;" "this side of the city."
+
+5. Distinguish—calx, calx; faba, faber; capella, capillus; frětum, frētum; pinna, penna; funda, fundus.
+
+6. Give the Latin for—"north," "south," "east," "west."
+
+7. Explain the expressions—flocci, nauci, pili, pensi, aestimare.
+
+8. In what various senses are the following words used?—ala, axis, lacus, legatus, lupus, aquila.
+
+9. Distinguish the meanings of—diligo and deligo; [redimo and loco ;] muto in prose and in poetry; interficio and trucido.
+
+10. Go through the tenses—(1) "It concerns (refert) me." (2) "I might have gone." (3) "I had to go." (4) "I shall have to send men."
+
+11. Show by examples how a superlative may be strengthened with quàm with and without possum. What other word strengthens a superlative? Give an example.
+LATIN GRAMMAR AND
+
+92.
+
+*1. What words of "place to which" are used in accusative without a preposition?*
+*2. Give rules for construction of "place from which."*
+3. Give one example of—gen. of quality; gen. after adjective of wanting; acc. of respect; abl. of thing compared; abl. of manner; abl. of material.
+4. Give the other degrees of comparison of—*secius*, *ocius*, *veterrimus*, *proxime*, *dexterior*, *prius*.
+5. What would be the verbs to use for—"to take a city by storm;" "to attack a city;" "to take a journey;" "to take pains (*opera*);" "to take punishment"?
+6. Put into Latin—(1) "He is without the city." (2) "He is without money." (3) "I never see him without laughing." (4) "The war was finished without a man being wounded." (5) "He came without delaying." (6) "He spoke without persuading me." (7) "He was condemned without being heard." (8) "No man can learn without studying." (9) "No man can study without learning."
+7. Parse—*temperi*, *arcubus*, *arto*, *condis* (2), *places*, *mares*, *divinitus*, *meopte*, *sis* (2), *cette*.
+8. Put into Latin—(1) "He was the first of the Romans who won a battle at sea." (2) "I am the last of Greeks to serve strangers."
+JUNIOR SCHOLARSHIP PAPERS.
+
+93.
+1. Give the co-related words for the following :—"How large? . . . as large . . . as . . . of some size." "Of what kind? . . . such . . . as . . . of whatever kind." "How many? . . . as many . . . as . . . some few."
+2. Give the Latin for "any one" in—(1) "Any one could do it." (2) "Hardly any one could do it." (3) "Do you not think any one could do it?" (4) "I do not think any one could do it."
+[3. Show the significance of each name of P. Corn. Scipio Æmilianus Africanus Minor.]
+4. Mark all the quantities of—naturae, praeerit, audiverimus, salus, pecus (fem.), decorus, hilaris, bene, dure, palluerunt, patriam, fiat, sol, hic (pronoun).
+5. Write out a list of the fractions of the as in order, giving the value of each.
+6. [Explain—Annus Bissextus ; and] give the Latin for—May 2nd, February 9th, March 22nd, April 6th, October 6th, November 30th.
+[7. Verres was a dishonest proprætor of Sicily. Why did the Sicilians call his administration of justice "Jus Verrinum"?]
+8. Distinguish between Laudatus sum quod haec feci and Laudatus sum quod haec facerem.
+LATIN GRAMMAR AND
+
+94.
+
+1. Add an apodosis to each protasis following—(1) Si haec facies—(2) Si haec fecisses—(3) Si haec facit—(4) Si haec faceret—and translate each sentence.
+
+2. How are the following used?—sin minus, neu, ceu, utrum, immo, utinam, prout, utpote.
+
+3. Distinguish—fetus, fetus; nostras, nostras; fatisco, fatiscor; frigidus, gelidus, egelidus; sub corona vendere, sub hasta vendere.
+
+[4. Of what were the following symbolical?—taedae, cupressus, hasta, laurus, hedera, fasces.]
+
+5. Give adverbs from—rapio, tempus, sentio, singuli, pes, vices, contemno, antiquus, pando, hostis, comis, dulcis.
+
+6. Give the Latin words and phrases for—"by turns," "immediately," "suddenly," "sufficiently."
+
+7. Parse in as many ways as possible—questus, quaestus, qua, menti, nares, praecipitis.
+
+[8. How do we get our words—"scrupulous," "tantalize," "Protean," "satire," "consider," "divulge"?]
+
+9. Explain the principle on which the symbols VII. and IX. are formed; and account for V. = 5.
+
+[10. Explain, with examples, the Roman computation of money by sestertia.]
+JUNIOR SCHOLARSHIP PAPERS.
+
+95.
+
+[1. Mention a Latin noun of which the gender is due to meaning in spite of form; and one of which the gender is due to form in spite of meaning.]
+2. What case-constructions are used with—natus, cretus, potior, [invideo,] celo, satus? Parse cretus and satus.
+3. Translate and explain the subjunctives in—(1) Pacta quae in manibus haberent. (2) Stultus es qui haec dicas. (3) Facundus fueris; non mihi persuadebis.
+4. Give the gender, acc. sing., and meaning of—Arctus, Boreas, Delos, Cybele, Atlantis, September, Tibur, Tiberis. How else is Tiberis spelt?
+[5. By what rule of concord is Animus et sententia populi in legibus posita est correct? What rules of concord does it break?]
+6. Parse in as many ways as possible—pellis, clavis, voces, facis, Troas, canis.
+7. Give the perf., sup., inf., meaning, of—molo, facesso, collabefacto, pessumdo, intelligo, viso, calleo, caleo, sano.
+8. Put into Latin—(1) "It is all over with the state." (2) "He has performed the work, which he undertook (recipio) to do, to my satisfaction." (3) "They obtained their request for peace." (4) "Sixteen years after the fall of Carthage."
+
+LATIN GRAMMAR AND
+
+96.
+
+1. Give the gen. sing. of—*Samnis*, *Sappho*, *Quiris*, *incus*, *grex*, *praes*; and the irregular cases of—*ravis*, *febris*, *bos*, *apis*.
+
+2. Give the meanings of—*excubiae*, *exsequiae*, *exuviae*, *induciae*, *inferiae*, *manubiae*, *nugae*, *nundinae*, *valvae*.
+
+*3. Decline in sing.—alius, solus, quantus, iste, ipse.*
+
+4. Give examples of—*-met, -ce, -cunque, -piam, -pte, -que*, as suffixes to pronouns, with force of each.
+
+[5. Give examples of the middle voice in Latin verbs.]
+
+6. Translate—(1) *Quotus quisque est qui me laudet!* (2) *Peccare non potes ut non alii peccent.* (3) *Huc accedebat quod praetor fuit.* (4) *Haud libenter vituperor.* (5) *Indignus es quem amem.* (6) *Satius fuit redire.*
+
+7. Distinguish—*sedit, sedat, sīdit; parit, pāret, păret; fugit, fugat; servit, servat; assidet, assīdat; conserit, consĕrit; appellit, appellat.*
+
+8. Give examples of gerund in *-dum* after prepositions.
+
+9. Give instances of the use of—(1) *Modo . . . modo.* (2) *Quum . . . tum.* (3) *Ut . . . ita.* (4) *Quo . . . eo.* (5) *Prius . . . quam.* (6) *Quanto . . . tanto.*
+
+[10. Put into Latin, in the usual style—"Rome, April 26. My dear son Lucius, I am glad to hear that you have had so prosperous a journey. I am writing at home. If you have need of money, let me hear from you. With best wishes for your health to be as good as mine is, affectionately yours, Marcus."]
+
+JUNIOR SCHOLARSHIP PAPERS.
+
+97.
+
+[1. Give the gen. and meaning of—crepundia, cunabula, exta, artus, inferi, loculi, sordes, verbera, tesqua, lemures, buccina, bucca, specus, caupo, copa.]
+
+2. What indeclinable nouns mean—"one pound," "by night," "of one's own accord," "likeness," "necessity," "by birth," "in readiness"?
+
+3. Give the proper meanings of—desiderium, fastus (substantive), religio, pietas, teres, rotundus, sodalis, [decor, decus].
+
+4. Give all words for "sea," distinguishing between their meanings.
+
+5. Distinguish between—Favonius, Eurus, Notus, Boreas, Zephyrus, flamen, ventus, aura, flabrum.
+
+6. Of what figures are the following examples?—(1) Apis more modoque. (2) Scuta latentia condunt. (3) Errare per lucos amoenae Quos et aquae subeunt et aurae. (4) Instar montis equus.
+
+7. What words are used to strengthen superlatives? Give examples.
+
+8. Give examples of the use of the supines of video; and write and analyse a sentence containing the supine in -um with iri.
+
+[9. The "Annals" of Tacitus begin with the words, "Urbem Romam a principio reges habuere." Is there any fault in them?]
+
+H
+LATIN GRAMMAR AND
+
+98.
+
+1. What epithets would you use for—"bad (weather)," "old-fashioned," "great (festival)," "surly," "accomplished (writer)," "great (general)," "well-tried," "abandoned (villain)"?
+
+2. What is the force of the prefix in—*praeclarus*, *sejungo*, *omitto*, *reddo*, *recludo*, *dispertior*, *ambigitur*?
+
+3. Translate—(1) *Ubi primum illuxit*. (2) *Auctore Caio lex lata est*. (3) *Instante Cicerone lex perlata est*. (4) *Bene de partibus meritus est*. (5) *Mori praestat quam haec pati*. (6) *Mihi pretium fuit stipendia mereri*. (7) *Facere non possum quin litteras mittam*.
+
+4. Distinguish—*pateret, pateretur*; *notă, nōtă, notā*; *hara, ara*; *profectus, profectus*; *părens, pārens*; *potes, pōtes*; *sedes, sēdes*; *uti, ūti*; *vēlis, vēlis*; *vires, vīres*; *caelat, celat*; *cedō, cědo*; *dolor, dolus, dolium*; *oppido* (noun), *oppido* (adverb).
+
+5. Give the adverbs from—*pars*, *pes*, *firmus*, *ille*, *validus*.
+
+6. Translate the following, inscribed on a dog's collar:—"*Me refer errantem: non indotatus abibis. Aspicies dominam, neu pete plura, meam*."
+
+7. Rewrite in *oratio obliqua*—*Quid moror? Ne credideritis me ita ignavum esse, ut mortem timeam. Vitam quam deos rogavi, dei negant. Æquo animo moriendum est; id quod facere possum*.
+
+JUNIOR SCHOLARSHIP PAPERS.
+
+
+99.
+
+1. Give instances of variation from the usual inflexions of nouns to avoid confusion with others.
+2. "The hills and valleys, which Venus loves." *Clivi et valles*, etc. Will you put *quos*, *quas*, or *quae*? and why?
+3. What words would you use for "make" in the following?—"I make war upon;" "I make peace;" "I make a speech;" "I am made king;" "I make little of;" "I make a treaty;" "I make for the city;" "I make a road."
+4. Parse in as many ways as you can—*ditem*, *natis*, *jura*, *secus*, *amari*, *pendet*, *torques*.
+5. Give the adjectives meaning—"of this year," "two years old," "three years old," "four years old."
+6. Translate and analyse—*Subit hanc Venerem esse ipsam*.
+7. Give examples of *quidem* joined on as suffix.
+8. Put into Latin, using participles if possible—(1) "Having been set over (*praeficio*) the army, he returned." (2) "Having conquered the enemy, he returned." (3) "Having been conquered, he returned." (4) "Having been spared by the enemy, he returned." (5) "Having exhorted (*hortor*) the soldiers, he returned." (6) "Having given orders (*praecipio*) to the soldiers, he returned." (7) "Caius having been defeated, we returned."
+LATIN GRAMMAR AND
+
+100.
+
+1. What variations are allowable of the rule that a plural verb is used with a compound subject?
+2. Distinguish between abstract and concrete nouns. Give the abstract, concrete, and collective, with meanings, relative to youth and old age.
+3. When is the pronominal subject of finite verbs expressed? Give examples.
+[4. Translate and comment on the construction of— *Exuitur pharetram* and *Nodo sinus collecta fluentes*.
+5. Give all the meanings of—*supercilium, familia, conjux, nepos, saltus, fori* (plur.).
+6. What prepositions are used with—*benignus, acer, excedo, juro*?
+7. Parse—*bearis, ream, heram, neris, ausit, siet, faxit, duit*.
+8. Translate—(1) *Quantum mutatus ab illo Hectore!* (2) *In eo est ut proficiscatur.* (3) *Pro eo ac potui.* (4) *Quo tibi erit luctari?* (5) *Viderit haec aliquis; quid ages ?*
+9. Correct—(1) *De qua causa.* (2) *Dicitur Ciceronem timidum esse.* (3) *Urbs oppugnari coepit.* (4) *De nemine loquor.* (5) *Utrum caecus aut surdus est?* (6) *Dic mihi utrum caecus an surdus est.* Is (6) ever defensible?
+10. Derive—*trano, vaticinor, infans, [incolumis,] auceps, cogito, biennium, obedio*.
+JUNIOR SCHOLARSHIP PAPERS.
+
+101.
+
+1. What verbs implying "to hurt," "to please," "to command," govern an accusative?
+2. Give the usual Latin for—"in the city;" "in the whole city;" "from Ephesus;" "at Ephesus;" "to the neighbourhood of Ephesus."
+3. Go through the tenses, using participles—(1) "I ought to have been sent." (2) "I shall have to be obeyed." (3) "I had intended going." (4) "I must eat (vescor) roots."
+4. Parse in as many ways as possible—pavit, apparet, vincis, vernae; marking any differences of quantity.
+[5. In what forms is vēnum or vēnus (sale) used?]
+6. Give two words, with meanings, from each of the following roots:—tul-, sim-, min- (2), frag-, bit-, du-.
+7. Give the perf., sup., inf., meaning, of—facesso, capesso, conniveo, diligo, deligo (2), religo, relego, relēgo.
+[8. Explain—rude donatus, pileo donatus, civitate donatus, emeritus, tiro, paedagogus, palaestra.]
+[9. Give examples of the idiomatic uses of—audio, moror, compertum, properato. Translate—Boni consulit, and give a fuller phrase for it.]
+10. Give one example of the use of—ut final, ut non, et non, neu, haud, ne dicam, proinde ac, tanquam si.
+LATIN GRAMMAR AND
+
+102.
+
+1. Translate—(1) *Ubi primum copia fuit*. (2) *Data est facultas*. (3) *Famae atque infamiae juxta incuriosus*. (4) *Litterae eodem exemplo*. (5) *Satis patriae prospectum est*.
+
+2. Give the perfects (all forms) of—*reperio, taedet, placet, miseret, refero, pudet, liquet, licet, veneo*.
+
+3. Give the meanings of—*imperatur, impetratus, juratus, jurandus, potus, nupta, confisus*.
+
+4. Translate—*Fremit, dissimulatque fremens*.
+
+5. Write a sentence in Latin, and analyse it into predicate, subject, copula, complement, attribute.
+
+6. Put into Latin, using *quum*—(1) "The spring was coming on when Hannibal started." (2) "Hannibal started when the spring was coming on."
+
+7. What idiomatic uses are there of *dum*? and in its use with subjunctive what equivalent has it?
+
+8. Give examples of the various uses of *quin*.
+
+9. Give the usual Latin for—"rearguard," "vanguard," "reinforcements," "auxiliaries," "to pitch a camp," "to break up a camp," "to give the signal for a retreat," "to join battle," "to declare war."
+
+10. Parse—*antiquitus, initus, reditus, lenitus, domitus, penitus, aditus, territus, funditus, coelitus, radicitus*.
+
+11. Give all the Latin words and phrases for—"at least," "everything," "almost," "provided that," "to such a degree;" [and the English of—*nudiustertius; perinde ac*].
+
+JUNIOR SCHOLARSHIP PAPERS.
+
+103.
+
+1. How is "this being the case" or "under these circumstances" rendered, (1) in primary, (2) in historic sequence?
+
+[2. Give the meanings of—*praestolari, populari, opitulari, grassari, opinari*.]
+
+3. Put into Latin—(1) "He thirsts (*sitio*) for fame." (2) "He went to meet (*obviam*) me." (3) "The legions were commanded (*praesum*) by Caius." (4) "He threw himself at Cæsar's feet." (5) "I have this long while been desiring peace."
+
+4. Give examples of—*propior, pridie, ergo, tenus*, governing cases.
+
+5. Give one example of—acc. of measure; dat. of complement and dat. of recipient; objective gen. after adjective; abl. of origin.
+
+6. Give the patronymics, masc. and fem., of—Atlas, Thestius; the diminutives of—*pallidus, miser*; the feminines of—*Laco, Cres, Tros, nepos, socer, gener*.
+
+7. Give the Latin for—182, 321st, 80th, 40 times, 200 each, 2000 each, ¹⁄₃, ⅔; and ⅜ of the as.
+
+8. Add conditional protases to the following apodoses:— ... *mortuus esset*; ... *redeat*; ... *redibit*; ... *rediret*; ... *manet*.
+
+9. What moods in *oratio recta* follow—(1) *O si*; (2) *utinam*; (3) *nedum*; (4) *quod*; (5) *licet*; (6) *quum* (causal); (7) *tanquam*?
+
+LATIN GRAMMAR AND
+
+104.
+
+Give the gen. sing., gender, meaning, of—Lar, crambe, olus, oleum, mica, mola, far, echo, pus, glis, bes.
+Give examples of the use of—[ditionis,] instar, foris, foras; with English.
+[Put into Latin—(1) "This is only just if it is dutiful." (2) "He was within a little of being killed." (3) "He is so far from going, that he is going to stay."]
+How are "the former" and "the latter," relating to persons already mentioned, rendered in Latin?
+What epithets would you use for—"a regular (triumph);" "a pitched (battle);" "an undecided (fight);" "a wild (fig tree)"?
+Derive—immensus, statim, [sincerus,] sultis, ilicet.
+What cases follow—adimo, convenio, colloqui, alloqui, succurro, juvo, nitor, recordor?
+What parts of orior and potior vary from the forms of their conjugation?
+Give one example of—euphemism, pleonasm, enallage, hypallage, hendiadys, [chiasmus].
+Explain—assimilation, syncope, apocope, metathesis; and give one example of each.
+Put into Latin—"I will buy the estate at the price you ask."
+Why does věnio make perfect vēni?
+Distinguish—cruor, sanguis; effigies, simulacrum; careo, egeo; desidero, gestio; aveo, opto.
+JUNIOR SCHOLARSHIP PAPERS.
+
+105.
+
+1. Parse and give the meanings of—*consenuit*, *deges*, *desuetus*, *depostis*, *nasset*, *renata*, *compilat*.
+
+2. What verbs would you use in—"to found a city;" "to found a society;" "to found a colony;" "to draw up a battle line;" "to draw up a code of laws"?
+
+3. Translate, and comment on any peculiarity of construction in—(1) *Varium et mutabile semper Femina*. (2) *Naturam expellas furca, tamen usque recurret*. (3) *Nec veterum memini laetorve malorum*.
+
+4. Give examples of the force of—*demum* with ordinal numeral; *tandem* with interrog.; *ne non*; *non modo* for *non modo non*.
+
+5. Give the adjectives, with meaning, from—*terra*, *mare*, *ebur*, *argentum*, *ruga*, *hiems*, *auris*, *quercus*, *ros*.
+
+6. Put into Latin (in *oratio obliqua*)—"I am able (he replied) to show that what I have done has been for the good of the state. Have I not consulted the interests of my fellow-countrymen? You have seen my acts; and they (relative) are better than words."
+
+7. Distinguish—*heri*, *herī*, *heres*; *proci*, *proceri*, *proceres*; *sine*, *sĭne*, *sin*; *lēvis*, *lĕvis*, *laevus*; *cānes*, *cănēs*, *cānes*; *lepōris*, *lepŏris*; *fīdes*, *fĭdes*, *fĭdes*.
+
+8. Give the derivations of the English words—"posthumous," "inter," "peculiar," "tantalize," "immense," "oval," "ovation," "virgin."
+
+LATIN GRAMMAR AND
+
+106.
+
+1. How else may the following words be spelt?—divum, urget, affōret, nactus, secutus, reicit, repulit, unguo, capiendus.
+
+2. Translate—(1) Duplices tendens ad sidera palmas. (2) Duplicato poplite nisus. (3) Digitis nutuque loquor. (4) Semet ipsos laudibus affecere. (5) Validis incumbite remis.
+
+[3. What is the phrase for men drawn up thus: : : : ?]
+
+4. Give the gen., gender, and meaning of—susurrus, lucus, myrtus, nemus, saltus, dumus, vagitus, sonitus, sonus, socrus, Idus, veru, olus, artus, astus, cibus, singultus, partus, anus, ansa, annona, antistes, ador, adorea.
+
+5. Distinguish between the meanings of—annuo, abnuo. What other word = abnuo?
+
+6. Give phrases meaning "to marry a woman."
+
+7. Translate—(1) ducere nectar; (2) imo de pectore duxit suspiria; (3) domum ducere; (4) ducere fossam; (5) bellum in hiemem ducere; (6) "Faceret" (respondit), "quod e republica duceret."
+
+8. Show the remains of different Latin words in names of English towns; and give meanings in each case.
+
+9. Where would the Latin differ in tense from the English in the following? —(1) "When I have finished, you shall come." (2) "You ought to have come." (3) "I will do it, if I am able." (4) "Do not despise me."
+JUNIOR SCHOLARSHIP PAPERS.
+
+107.
+
+[1. Draw up a table of conditional sentences, noting any common deviations from the usual forms.]
+
+2. Put into Latin—(1) "At the foot of the mountain there was a severe rather than a long fight." (2) "I was on the point of starting." (3) "He feared that he was not worthy to be sent." (4) "Wars once begun (_ineo_), must be finished." (5) "Not a single foe would have escaped."
+
+3. Give one example of each of the following:—enallage, pleonasm, meiosis, personification, zeugma, brachylogy, [tautology,] [climax,] hendiadys.
+
+4. Horace represents a schoolmaster putting these questions to a pupil—"Si de quincunce remota est Uncia, quid superat?" and "Redit (is added) uncia, quid fit?" Answer them.
+
+5. Parse—_mearis_, _desitus_, _reris_, _placeris_, _pedis_, _pessum_, _liques_, _dixti_, _dicas_, _didit_.
+
+6. Put into Latin—"after my consulship;" "before your prætorship;" "in my boyhood;" "from boyhood;" "after the expulsion of the kings."
+
+[7. _Plus isto, duri, si precor, oris ero_. "If I ask more than that, I shall be a man of hardy utterance." Comment on the order of the Latin.]
+
+8. Put into Latin style—November 23rd, B.C. 180.
+
+[9. Give examples of multiplicative and proportional numerals, three of each kind.]
+
+LATIN GRAMMAR AND
+
+108.
+
+1. What constructions will follow, represented by English conjunction "that," the following?—(1) *sequitur*; (2) *scio*; (3) *accedit*; (4) *imperat*; (5) *promittit*; (6) *jubet*; (7) *sperat*; (8) *restat*; (9) *reliquum est*. Which is usual—*Constituo ire* or *Constituo ut eam*?
+2. Distinguish between a simile and a metaphor; and give an example of each in Latin.
+3. Give examples of similes introduced by—(1) *qualis* in nom.; (2) *qualis* in oblique case; (3) *instar*; (4) *ceu*.
+4. Give various words introducing the second member of a simile.
+5. Distinguish between the uses of *dixit* and *inquit*.
+6. Give all the meanings of—*dexter*, *sinister*, *invisus*, *indignus*, *iniquus*, *difficilis*, *laetus*.
+7. Translate—(1) *Murmura disjectam vaticinata ratem*. (2) *Non eodem ense non utemur*. (3) *Non tali auxilio, nec defensoribus istis Tempus eget; non, si ipse meus nunc afforet Hector*. Comment on the uses of *non* in these last two examples.
+8. Parse in as many ways as possible—*repulsa*, *vites*, *junctura*, *partus*, *fastus*, *judices*, *saturas*.
+[9. In what senses are *profecto*, *prorsus*, *admodum*, *proinde ac*, used? What other phrase = *proinde ac*?]
+10. What adjectives can be followed by an accusative? Give examples.
+JUNIOR SCHOLARSHIP PAPERS.
+
+109.
+
+1. Translate and analyse—(1) *Tantae molis erat Roman-
+am condere gentem.* (2) *Jam seges est, ubi Troja
+fuit.*
+2. Put into Latin, exemplifying the use of the relative—
+(1) "You are wrong in thinking me wise." (2)
+"There are not wanting men who have fought
+for their country." (3) "No one has been found
+to say this." In which of these might the relative
+be strengthened with *quippe* or *utpote*?
+3. Give the usual Latin for—"to be neutral;" "to vote
+for a candidate;" "to bring in a law;" "to carry
+a law;" "I have an audience of the senate;"
+"I commit suicide;" "to aim at a revolution;"
+"to take the prescribed form of oath."
+4. When can a relative clause in *oratio obliqua* be in the
+acc. and inf.? Write an example.
+[5. Distinguish *aut* and *vel*; and show the proper force
+of *aut* in—*Peccare nefas, aut pretium mori est.*]
+6. Give all the meanings of—*germanus, Cecropis, parca,
+texit, multas, venit, oppido, fetus.*
+7. Give examples of the strengthening force of—*omnino,
+vel, quàm, demum, quidem.*
+8. Give the gerundives of—*dono, pareo, redeo, juro, ineo.*
+9. Translate—(1) *Jura fidemque Supplicis erubuit.* (2)
+*Honores sitiet.* (3) *Graeculus esuriens in coelum,
+jusseris, ibit.*
+
+LATIN GRAMMAR AND
+
+110.
+
+1. What are the various meanings of the verbs—adoleo, puto, operor, uro, cano, cerno, moror, lego, loco, detracto, volo _(velle)_, valeo, aveo, tueor, versor, taceo, calleo, committo, accipio, doleo, animadverto?
+
+2. What verbs would you use in the following?—(1) "I bring an action." (2) "I name a day." (3) "I aim at sovereignty." (4) "I resign office." (5) "I discharge duties." (6) "I give a show." (7) "I borrow money." (8) "I come off victorious." (9) "I turn out a hero."
+
+[3. Translate, by English proverbial expressions or otherwise—_Pingui Minerva faciam; Sus Minervam; Oleum atque operam perdere; Festina lente; Ne sutor ultra crepidam._]
+
+4. Explain the phrase—_Agere et ferre_.
+
+5. What was about the value in English money of—the as, the denarius, the sestertius, the sestertium?
+
+6. Translate—(1) _In toga facta_. (2) _Æquo loco castra posuit_. (3) _Consulem se feret_. (4) _Spectatus in bello est_. (5) _Majoribus se jactat_. (6) _Mihi verba dedit_.
+
+[7. Translate and comment on—_Quisque suos patimur dolores_.]
+
+8. Give the meanings of—vafer, catus, callidus, vesanus, versicolor, lacticolor, liquidus, insulsus, lippus, luscus, disertus, pellucidus.
+
+[9. What is the composition of the words—amavi, rexi, audiveram, audivero?]
+JUNIOR SCHOLARSHIP PAPERS.
+
+111.
+
+1. Give examples of the adverbial use of—_coram_, _post_, _contra_, _palam_, _ante_, _multa_, _nihil_.
+2. Put into Latin—"Not even Caius could do this;" putting the subject (1) before the verb, (2) after it.
+[3. (1) _Quae nemora aut quos agor in specus_? (2) _Mittit, et optat amans, quo mittitur, ire, salutem_. (3) _Epistola cui sit Non occultato nomine missa docet_. (4) _Sed levius fit patientia Quidquid corrigere est nefas_. Write these in the order usually observed.]
+4. Comment on the connection between sense and sound in—(1) _Susurrus_. (2) _Eheu_! (3) _Ululatus_. (4) _Alapae_. (5) _Quamquam sunt sub aqua, sub aqua maledicere tentant_. (6) _Vitam exhalat_.
+5. Parse in all ways—_liquit, liquitur, sede, serius, potis, fossis, colis, violas, fraudes_.
+[6. Explain—_Annus Bissextus_. Why did the Romans in their leap year repeat the particular day which gives it its name?]
+7. Derive—_inermis, lictor, nausea, debilis, delirus_.
+8. How can _desitus sum_ and _coeptus sum_ be used?
+9. Give examples, with meanings, of suffixes -_ce_, -_pte_, -_met_; and prefixes _se_-, _so_-, _ve_-, _a_-, _de_-, _ne_-.
+10. Divide the following conjunctions into co-ordinative and subordinative, and classify them under each head:—_quasi, quia, ceterum, nisi, licet, quominus, sive, ne, quin, ut non_.
+LATIN GRAMMAR AND
+
+112.
+
+1. Give some examples of the enclitic use of—quidem, modo, [adeo].
+
+2. In what senses is *ut* followed by the indicative?
+
+3. What is the meaning of the first part of the word *simplex*? Give other words containing the same root.
+
+4. Distinguish—*rite, ritu*; *postea, postquam, post*; *justitium, justitia*; *consilium, concilium*; *precor, deprecor*.
+
+5. Which is right—*Galba doctus fuisse dicitur* or *Galbam doctum fuisse dicitur*? and *Galba doctus fuisse traditus est* or *Galbam doctum fuisse traditum est*?
+
+6. What other forms are there of?—*satis, secius, dextera, periculum, videsne? audisne*?
+
+7. Put into Latin—(1) "It was a hand-to-hand fight." (2) "They fought with missiles."
+
+8. Translate—(1) *Patruae verbera linguae*. (2) *Centum talentis ea res nobis stetit*. (3) *De gustibus non est disputandum*. (4) *Timeo Danaos et dona ferentes*.
+
+[9. Translate—*Infitias ibo*; and give the phrases like it.]
+
+10. What are the uses of *dum* with the subjunctive? Give examples.
+
+11. Comment on the accusatives in—(1) *Sanguinem pluit*. (2) *Aeduos Caesar animum advertit*. (3) *Induitur vestem*. What preposition is commonly added in (2)?
+
+JUNIOR SCHOLARSHIP PAPERS.
+
+113.
+[1. Caesar Dolabellam ut obsides quos ceperat redderet misit. Rewrite the clauses in this sentence in as many orders as possible.]
+2. Give the Latin for—"the son of Tyndarus;" "the daughter of Tyndarus;" in the nom., voc., and acc. sing.
+3. Put into Latin—(1) "Had I not come, they would be still playing." (2) "If he takes the town, he will spare the conquered." (3) "He said that if he had taken the town, he would have killed the captives." (4) "They asked him whether, if he had taken the town, he would have killed the captives or not." (5) "He promises to come." (6) "He hopes that he will be able to come."
+4. What Latin words would you use to express the words in italics in?—(1) "I, forsooth, a king, in prison!" (2) "And so Quintilius is dead!" (3) "I know what you mean: why, of course, you mean me to go, or else you would have said so."
+5. Parse—pernicis, ditis, hebetis, residis, cata, sollertis, truci.
+6. Give one example of—tmesis, apocope, syncope, aphæresis, diæresis.
+7. Give examples of—tenus, ergo, partim, with an oblique case.
+8. Decline—nescio quis; and distinguish between its meaning, (1) with ind., (2) with subj.
+LATIN GRAMMAR AND
+
+114.
+
+1. What is the first meaning of *legatus*? and what derived meanings does it usually bear?
+2. Give idiomatic Latin phrases for—"a regular triumph;" "to sell as spoil;" "to sell as a slave;" "to cheat;" "to go into exile;" "to abdicate."
+[3. Translate and explain—(1) *Abiit ad plures*. (2) *Laboribus functus*. (3) *Omnes (cognatos) composui*. (4) *Meo unius funere elata populi Romani esset respublica*.]
+\*4. Give the gerundives of—*pareo, juro, redeo, reddo, utor, capio*.
+5. Give the gen. sing., gender, and meaning of—*mola, mica, tus, far*.
+6. What are symbolized by—*cupressus, spina alba, taeda, lapis albus, laurus, hedera, candida toga, ignis et aqua*?
+7. Translate, noting difference of tense-idiom in Latin and English—
+" *Quanto plura sibi quisque negaverit,
+Ab dis plura feret."*
+8. Put into Latin—(1) "On the top of the mountain." (2) "At the end of the third book." (3) "Every tenth man." (4) "Some think one thing, some another."
+JUNIOR SCHOLARSHIP PAPERS.
+
+115.
+
+1. Put into Latin—(1) "He died a few days afterwards." (2) "He died a few months ago." (3) "I came a few days before." (4) "He invited us for the next day." (5) "A public thanksgiving was decreed from the 1st of March." (6) "He is under thirty years old."
+[2. Translate and explain—*Ad Graecas Kalendas solvet*.]
+[3. What Latin words would you use to express the words in italics in ?—(1) "Is it thus that you treat me?" (2) "Oh, but you will say—" etc. (introducing an objection to an argument). (3) "They are valued *according* as each has ability." (4) "I will go, *unless*, *indeed*, you will."]
+4. Give rules for the use of—*haud*; *ne . . . quidem* (according to position of the verb); *dum* (temporal); *ut* (consecutive).
+5. Translate—(1) *Ut juvenis, ita prudens est*. (2) *Ita aequum est, si honestum est*. (3) "If this is true, I rejoice: if not, I must bear it with resignation." (4) "Under these circumstances, I must go."
+6. What rules are to be observed with regard to mood and tense after *ne* prohibitive? Give examples of periphrastic prohibitions.
+7. Explain the difference of mood after *quot* in—(1) *Dic mihi quot sitis*; and (2) *Dabo quot nummos habebo*.
+LATIN GRAMMAR AND
+
+APPENDIX L
+
+ROME.
+
+1. On what bank of what river does Rome stand, and what bank was opposite? What is the conventional epithet of the river?
+
+2. Name the seven hills of Rome.
+
+3. Name the principal gates.
+
+4. Explain—(1) Pomerium; (2) Circus Maximus; (3) Suburra; (4) Cloaca Maxima; (5) Via Sacra; (6) Capitolium; (7) Campus; (8) Forum; (9) Rostra; (10) Curia; (11) Æterna Vesta; (12) Columna Rostrata.
+
+5. For what purposes were (1) tabernæ, (2) basilicæ, built?
+
+6. Explain the meaning of—(1) Janus clauditur. (2) Janus recluditur. What were Jani?
+
+7. What was the Tullianum?
+
+8. For what purpose was the Campus Esquilinus used?
+
+9. Explain—(1) Forum Boarium; (2) Insula Tiberina; (3) Janiculum; (4) Mons Vaticanus; (5) Pons Sublicius; (6) Aqua Appia.
+
+10. Mention some of the chief roads leading from Rome.
+APPENDIX II.
+
+LITERATURE.
+
+1. Name the principal works of—(1) Horace; (2) Virgil; (3) Ovid; (4) Tacitus; (5) Sallust.
+2. Who wrote—(1) the "Andria;" (2) the "De Amicitia;" (3) the "Pharsalia;" (4) the "Miles Gloriosus;" (5) the "Pollio;" (6) the "De Bello Gallico;" (7) the "De Officiis;" (8) the "Fasti"?
+3. In what styles did the following write? in what metres?—(1) Catullus; (2) Juvenal; (3) Lucretius; (4) Seneca; (5) Plautus; (6) Tibullus.
+4. What Greek authors do Virgil and Horace either borrow from or imitate?
+5. Explain—(1) *Mercurialium custos virorum*. (2) *Vertere stilum*. (3) *Carmen litura coercere*.
+6. Define an epigram. Who was the chief Roman writer of epigrams?
+7. What parts of a liber were—(1) *umbilicus*; (2) *titulus*; (3) *index*; (4) *frontes*?
+8. Translate—*Me doctarum hederae praemia frontium Dis miscent superis*.
+9. Distinguish between the *soccus* and the *cothurnus*.
+10. Give other names for—Cicero, Ovid, Horace, Virgil. To what authors do these names belong?—Titus Annius, Afer.
+
+APPENDIX III.
+
+MYTHOLOGY.
+
+1. Name the deities of—war, love, hunting, wine, strength, wisdom, sea, winds, queen of gods, music, eloquence.
+
+2. Who and what were—Iris, Pluto, Diva triformis (explain), Æacus (name his colleagues), Diespiter, Proteus, Trivia, Lucina, Lucifer, Æsculapius, Astræa, Charon, Chiron, Ceres, Rhea, Janus, Vulcan, Libitina, Pan, Saturn, Vesta? Give other names where you can.
+
+3. Name the rivers of the lower regions.
+
+4. Name the Graces.
+
+5. Name the Muses and their attributes. By what other terms are they called?
+
+6. Name the Parcæ.
+
+7. Name the Furies.
+
+8. Distinguish between (1) Lares and (2) Penates.
+
+9. What proper nouns would you use to describe a man as—(1) handsome; (2) wealthy; (3) a faithful friend; (4) a faithless deceiver; (5) a patron of literary men?
+
+10. In what sense are Venus and Canis opposites?
+
+JUNIOR SCHOLARSHIP PAPERS.
+
+What is meant by saying that one is between Scylla and Charybdis? Explain.
+Translate—*Ancipiti Marte pugnabatur...*
+What were the supposed abodes of the gods, the Muses, the happy dead?
+Explain—faun, centaur, satyr.
+LATIN GRAMMAR AND
+
+APPENDIX IV.
+
+ANTIQUITIES.
+
+1. Name the chief duties of—(1) consuls; (2) prætors; (3) tribunes; (4) ædiles; (5) censors.
+2. Name the three comitia, and state the composition of each.
+3. What were the curule offices?
+4. How did the office of dictator differ from all others?
+5. Distinguish between—(1) praetor urbanus and (2) praetor peregrinus.
+6. Explain—(1) pontifex; (2) flamen dialis; (3) augur; (4) haruspex; (5) auspicia; (6) supplicatio; (7) duplices tendens ad sidens palmas; (8) lectisternium.
+7. Translate and explain—
+"Ille nefastus erit, per quem Tria Verba silentur:
+Fastus erit per quem lege licebit agi."
+8. Distinguish—justitium, justitia; triumphus, ovatio; tribunus plebis, tribunus militum.
+9. In what senses are the following used in connection with a funeral?—pompa, pyra, laudatio, naeniae, urna.
+10. Distinguish—nomen, agnomen, cognomen, praenomen; and give an example of a Roman assuming five names.
+11. Explain—Divus Julius.
+12. Distinguish—Penates and Lares. Explain—Imagines.
+JUNIOR SCHOLARSHIP PAPERS.
+
+APPENDIX V.
+ANTIQUITIES.
+
+1. Distinguish between the toga and the tunica.
+2. Explain—(1) toga praetexta; (2) toga virilis; (3) latus clavus; (4) angustus clavus; (5) toga picta.
+3. Explain—togatus civis ; togatae ; barbatus civis ; candidatus.
+4. Translate and explain—(1) Cedant arma togae. (2) Nocitura toga, nocitura petuntur Militiae.
+5. Distinguish between the stola and the palla.
+6. Describe—triclinium.
+7. Explain—merum ; propino tibi ; ab ovo usque ad mala ; umbra (at a feast) ; sportula.
+8. Name some of the favourite Roman wines. How were they commonly drunk ?
+9. Give the Latin for—(1) "starting-post;" (2) "half-way-post;" (3) "winning-post."
+10. Explain—rude donatus—emeritus—pollice verso—habet !—sub corona vendere—sub hasta vendere—Hastati—Principes—Triarii—ante-pilani—testudo—libertinus—manumissio—novus homo—pileo do-natus—relegatio—majestas—res repetundae—spolia optima—sub jugo mittere.
+11. What was the bulla ?
+12. Describe the relations of a client to his patron.
+LATIN GRAMMAR, ETC., PAPERS.
+
+Give the technical meanings of—*honor*; *descendere in campum*; and the form used in giving dictatorial powers to the consuls.
+Give a full account of the Roman system of names, with an example.
+Explain—(1) *lictor*; (2) *fasces*; (3) *pilum*; (4) *rostra*; (5) *forum*; (6) *curia*; (7) *tollitur aulaeum*; (8) *premitur aulaeum*; (9) *plaudite*!
+
+Digitized by Google
+RIVINGTON'S EDUCATIONAL LIST
+
+Catena Classicorum.
+ARISTOPHANIS COMEDIÆ.
+THE ACHARNIANS AND THE
+KNIGHTS. 4s. THE WASPS. 3s. 6d.
+-THE CLOUDS. 3s. 6d.
+DEMOSTHENIS ORATIONES
+PUBLICÆ. THE OLYNTHIACS.
+2s. 6d.—THE PHILIPPICS. 3s. Or,
+in one volume, 4s. 6d. DE FALSA
+LEGATIONE. 6s.
+DEMOSTHENIS ORATIONES
+PRIVATE. DE CORONA. 5s.
+HERODOTI HISTORIA. Book I.,
+6s.—Book II., 5s.
+HOMERI ILIAS. Books I.—XII.
+6s.
+HORATI OPERA. THE ODES,
+CARMEN SECULARE, and EPODES.
+7s. 6d.—THE ODES. Books I.—IV.
+separately, 1s. 6d. each.
+ISOCRATIS ORATIONES. AD
+DEMONICUM ET PANEGYRICUS. 4s. 6d.
+JUVENALIS SATIRÆ. 5s.
+PERSII SATIRÆ. 3s. 6d.
+SOPHOCLIS TRAGEDIÆ. THE
+ELECTRA. 3s. 6d.—THE AJAX. 3s. 6d.
+TACITI HISTORIÆ. Books I. and
+II., 6s.—Books III., IV., and V., 6s.
+TERENTI COMEDIÆ. ANDRIA
+and EUNUCHUS. 4s. 6d. Or sepa-
+rately, ANDRIA, 3s. 6d.—EUNUCHUS,
+3s.
+THUCYDIDIS HISTORIA. Books
+I. and II., 6s.—Books III. and IV.,
+6s.
+
+Scenes from Greek Plays.
+By A. SIDGWICK. 1s. 6d. each.
+ARISTOPHANES. THE CLOUDS.
+THE FROGS. THE KNIGHTS. PLUTUS.
+EURIPIDES. IPHIGENIA IN TAURIS.
+THE CYCLOPS. ION ELECTRA.
+ALCESTIS. BACCHÆ. HECUBA.
+
+Cicero de Amicitia. By A.
+SIDGWICK. 2s.
+
+Exercises in Latin Ele-
+giac Verse. By C. G. GEPP. 3s. 6d.
+
+Ecloga Ovidiana. By T. K.
+ARNOLD. 2s. 6d.
+
+A First History of Eng-
+land. By LOUISE CREIGHTON. 2s. 6d.
+
+
+Latin Texts.
+ÆNEID OF VERGIL. Books I.,
+II., III., IV., V., VII., VIII., IX.,
+2d. each. Books VI., X., XI., XII.,
+3d. each.
+GEORGICS OF VERGIL. Books
+I.—IV. 2d. each.
+BUCOLICS OF VERGIL. 2d.
+The above in one volume. 2s. 6d.
+CÆSAR DE BELLO GALLICO.
+Books I., V., VII., VIII., 3d. each.
+Books II., III., IV., VI., 2d. each.
+The above in one volume, 1s. 6d.
+
+
+Select Plays of Shakspere.
+RUGBY EDITION.
+
+AS YOU LIKE IT. 2s.
+MACBETH. 2s.
+HAMLET. 2s. 6d.
+KING LEAR. 2s. 6d.
+ROMEO AND JULIET. 2s.
+KING HENRY THE FIFTH. 2s.
+A MIDSUMMER NIGHT'S
+DREAM. 2s.
+KING JOHN. 2s.
+CORIOLANUS. 2s. 6d.
+THE TEMPEST. 2s.
+
+
+A History of England.
+By J. F. BRIGHT.
+
+Period I.—MEDIEVAL MONARCHY:
+A.D. 449—1485. 4s. 6d.
+Period II.—PERSONAL MONARCHY:
+A.D. 1485—1688. 5s.
+Period III.—CONSTITUTIONAL MON-
+ARCHY: A.D. 1689—1837. 7s. 6d.
+
+
+Historical Biographies.
+SIMON DE MONTFORT. 2s. 6d.
+THE BLACK PRINCE. 2s. 6d.
+SIR WALTER RALEGH. 3s.
+OLIVER CROMWELL. 3s. 6d.
+DUKE OF MARLBOROUGH.
+3s. 6d.
+DUKE OF WELLINGTON. 3s. 6d.
+
+
+A Handbook in Outline
+of English History to 1882. By
+ARTHUR H. D. ACLAND and CYRIL
+RANSOME. 6s.
+A SKELETON OUTLINE of the above.
+1s. 6d.
+
+Waterloo Place, Pall Mall, Lon
+
+Digitized by Google

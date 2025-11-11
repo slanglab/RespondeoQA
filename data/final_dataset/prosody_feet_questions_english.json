@@ -1,0 +1,302 @@
+[
+    {
+        "source_name": "exercises-in-latin-prosody",
+        "source_year": 1823,
+        "question_id": "prosody_app.I.1.1",
+        "question_format": "short_answer",
+        "question_content": "scansion",
+        "difficulty": "unknown",
+        "question_language": "english",
+        "answer_language": "english",
+        "question": "What is the name of each foot in the following line of poetry? Give your answer as a comma-separated list.\nInt\u0115|g\u0113r v\u012b|t\u00e6, sc\u0115l\u0115|r\u012bsqu\u0115 | p\u016br\u016ds,",
+        "multiple_choice_options": [],
+        "answers": [
+            "Trochee, Spondee, Dactyl, Trochee, Trochee"
+        ]
+    },
+    {
+        "source_name": "exercises-in-latin-prosody",
+        "source_year": 1823,
+        "question_id": "prosody_app.I.1.2",
+        "question_format": "short_answer",
+        "question_content": "scansion",
+        "difficulty": "unknown",
+        "question_language": "english",
+        "answer_language": "english",
+        "question": "What is the name of each foot in the following line of poetry? Give your answer as a comma-separated list.\nN\u014dn \u0115|g\u0113t M\u0101u|r\u012b j\u0103c\u016d|l\u012bs, n\u0115|que \u0101rc\u016d.\"",
+        "multiple_choice_options": [],
+        "answers": [
+            "Trochee, Spondee, Dactyl, Trochee, Trochee"
+        ]
+    },
+    {
+        "source_name": "exercises-in-latin-prosody",
+        "source_year": 1823,
+        "question_id": "prosody_app.I.2.1",
+        "question_format": "short_answer",
+        "question_content": "scansion",
+        "difficulty": "unknown",
+        "question_language": "english",
+        "answer_language": "english",
+        "question": "What is the name of each foot in the following line of poetry? Give your answer as a comma-separated list.\nP\u0103t\u0113r|n\u0103 r\u016b|r\u0103 b\u014d|b\u016bs \u0113x|\u0113rc\u0113t | s\u016d\u012bs,",
+        "multiple_choice_options": [],
+        "answers": [
+            "iambus, iambus, iambus, iambus, spondee, iambus"
+        ]
+    },
+    {
+        "source_name": "exercises-in-latin-prosody",
+        "source_year": 1823,
+        "question_id": "prosody_app.I.2.2",
+        "question_format": "short_answer",
+        "question_content": "scansion",
+        "difficulty": "unknown",
+        "question_language": "english",
+        "answer_language": "english",
+        "question": "What is the name of each foot in the following line of poetry? Give your answer as a comma-separated list.\nS\u014fl\u016b|t\u016ds \u014dm|n\u012b f\u0153|n\u014fr\u0113.\"",
+        "multiple_choice_options": [],
+        "answers": [
+            "iambus, iambus, spondee, iambus"
+        ]
+    },
+    {
+        "source_name": "exercises-in-latin-prosody",
+        "source_year": 1823,
+        "question_id": "prosody_app.I.3.1",
+        "question_format": "short_answer",
+        "question_content": "scansion",
+        "difficulty": "unknown",
+        "question_language": "english",
+        "answer_language": "english",
+        "question": "What is the name of each foot in the following line of poetry? Give your answer as a comma-separated list.\nIlli | r\u014db\u016dr \u0115t \u00e6s | tr\u012dpl\u0113x",
+        "multiple_choice_options": [],
+        "answers": [
+            "spondee, choriambus, iambus"
+        ]
+    },
+    {
+        "source_name": "exercises-in-latin-prosody",
+        "source_year": 1823,
+        "question_id": "prosody_app.I.3.2",
+        "question_format": "short_answer",
+        "question_content": "scansion",
+        "difficulty": "unknown",
+        "question_language": "english",
+        "answer_language": "english",
+        "question": "What is the name of each foot in the following line of poetry? Give your answer as a comma-separated list.\nC\u012brc\u0101 | p\u0113ct\u016ds \u0115r\u0101t, | qu\u012b fr\u0103g\u012dl\u0113m | tr\u016dc\u012b",
+        "multiple_choice_options": [],
+        "answers": [
+            "spondee, choriambus, choriambus, iambus"
+        ]
+    },
+    {
+        "source_name": "exercises-in-latin-prosody",
+        "source_year": 1823,
+        "question_id": "prosody_app.I.3.3",
+        "question_format": "short_answer",
+        "question_content": "scansion",
+        "difficulty": "unknown",
+        "question_language": "english",
+        "answer_language": "english",
+        "question": "What is the name of each foot in the following line of poetry? Give your answer as a comma-separated list.\nCommi|sit pelago | ratem",
+        "multiple_choice_options": [],
+        "answers": [
+            "spondee, choriambus, iambus"
+        ]
+    },
+    {
+        "source_name": "exercises-in-latin-prosody",
+        "source_year": 1823,
+        "question_id": "prosody_app.I.3.4",
+        "question_format": "short_answer",
+        "question_content": "scansion",
+        "difficulty": "unknown",
+        "question_language": "english",
+        "answer_language": "english",
+        "question": "What is the name of each foot in the following line of poetry? Give your answer as a comma-separated list.\nPrimus, | nec timuit | pr\u00e6cipitem A|fricum.\"",
+        "multiple_choice_options": [],
+        "answers": [
+            "spondee, choriambus, choriambus, iambus"
+        ]
+    },
+    {
+        "source_name": "exercises-in-latin-prosody",
+        "source_year": 1823,
+        "question_id": "prosody_app.I.4.1",
+        "question_format": "short_answer",
+        "question_content": "scansion",
+        "difficulty": "unknown",
+        "question_language": "english",
+        "answer_language": "english",
+        "question": "What is the name of each foot in the following line of poetry? Give your answer as a comma-separated list.\nQu\u012bd l\u0103t\u0115t, \u016bt | m\u0103r\u012bn\u00e6",
+        "multiple_choice_options": [],
+        "answers": [
+            "Choriamb, Amphibrac"
+        ]
+    },
+    {
+        "source_name": "exercises-in-latin-prosody",
+        "source_year": 1823,
+        "question_id": "prosody_app.I.4.2",
+        "question_format": "short_answer",
+        "question_content": "scansion",
+        "difficulty": "unknown",
+        "question_language": "english",
+        "answer_language": "english",
+        "question": "What is the name of each foot in the following line of poetry? Give your answer as a comma-separated list.\nF\u012bl\u012d\u016bm d\u012b|c\u016bnt Th\u0115t\u012dd\u012bs | s\u016bb l\u0103chrym\u014d|s\u0103 Tr\u014dj\u00e6",
+        "multiple_choice_options": [],
+        "answers": [
+            "Second Epitrit, Choriamb, Choriamb, Amphibrac"
+        ]
+    },
+    {
+        "source_name": "exercises-in-latin-prosody",
+        "source_year": 1823,
+        "question_id": "prosody_app.I.4.3",
+        "question_format": "short_answer",
+        "question_content": "scansion",
+        "difficulty": "unknown",
+        "question_language": "english",
+        "answer_language": "english",
+        "question": "What is the name of each foot in the following line of poetry? Give your answer as a comma-separated list.\nFunera, ne | virilis",
+        "multiple_choice_options": [],
+        "answers": [
+            "Second Epitrit, Amphibrac"
+        ]
+    },
+    {
+        "source_name": "exercises-in-latin-prosody",
+        "source_year": 1823,
+        "question_id": "prosody_app.I.4.4",
+        "question_format": "short_answer",
+        "question_content": "scansion",
+        "difficulty": "unknown",
+        "question_language": "english",
+        "answer_language": "english",
+        "question": "What is the name of each foot in the following line of poetry? Give your answer as a comma-separated list.\nCultus in c\u00e6|dem et Lycias | proriperet | catervas ?\"",
+        "multiple_choice_options": [],
+        "answers": [
+            "Choriamb, Choriamb, Choriamb, Amphibrac"
+        ]
+    },
+    {
+        "source_name": "exercises-in-latin-prosody",
+        "source_year": 1823,
+        "question_id": "prosody_app.I.5.1",
+        "question_format": "short_answer",
+        "question_content": "scansion",
+        "difficulty": "unknown",
+        "question_language": "english",
+        "answer_language": "english",
+        "question": "What is the name of each foot in the following line of poetry? Give your answer as a comma-separated list.\nQu\u012b s\u0115r\u0115|re \u012bng\u0115n\u016d|\u016bm v\u014fl\u0115t | \u0103gr\u016dm,",
+        "multiple_choice_options": [],
+        "answers": [
+            "dactyl, dactyl, dactyl, pyrrhic"
+        ]
+    },
+    {
+        "source_name": "exercises-in-latin-prosody",
+        "source_year": 1823,
+        "question_id": "prosody_app.I.5.2",
+        "question_format": "short_answer",
+        "question_content": "scansion",
+        "difficulty": "unknown",
+        "question_language": "english",
+        "answer_language": "english",
+        "question": "What is the name of each foot in the following line of poetry? Give your answer as a comma-separated list.\nLiberat | arva pri|\u00f9s fruti|cibus.",
+        "multiple_choice_options": [],
+        "answers": [
+            "dactyl, dactyl, dactyl, pyrrhic"
+        ]
+    },
+    {
+        "source_name": "exercises-in-latin-prosody",
+        "source_year": 1823,
+        "question_id": "prosody_app.I.5.3",
+        "question_format": "short_answer",
+        "question_content": "scansion",
+        "difficulty": "unknown",
+        "question_language": "english",
+        "answer_language": "english",
+        "question": "What is the name of each foot in the following line of poetry? Give your answer as a comma-separated list.\nD\u014fm\u012dn\u0101|r\u0115 t\u016dm\u012d|d\u016bs; sp\u012b|r\u012dt\u016bs | \u0101lt\u014ds | g\u0115r\u0113;",
+        "multiple_choice_options": [],
+        "answers": [
+            "anapest, tribrac, spondee, iambus, spondee, iambus"
+        ]
+    },
+    {
+        "source_name": "exercises-in-latin-prosody",
+        "source_year": 1823,
+        "question_id": "prosody_app.I.5.4",
+        "question_format": "short_answer",
+        "question_content": "scansion",
+        "difficulty": "unknown",
+        "question_language": "english",
+        "answer_language": "english",
+        "question": "What is the name of each foot in the following line of poetry? Give your answer as a comma-separated list.\nS\u0115qu\u012dt\u016br | s\u016dp\u0113r|b\u014ds \u016bl|t\u014fr \u0101 | t\u0113rg\u014d | D\u0115\u016bs.\"",
+        "multiple_choice_options": [],
+        "answers": [
+            "anapest, iambus, spondee, iambus, spondee, iambus"
+        ]
+    },
+    {
+        "source_name": "exercises-in-latin-prosody",
+        "source_year": 1823,
+        "question_id": "prosody_app.I.6.1",
+        "question_format": "short_answer",
+        "question_content": "scansion",
+        "difficulty": "unknown",
+        "question_language": "english",
+        "answer_language": "english",
+        "question": "What is the name of each foot in the following line of poetry? Give your answer as a comma-separated list.\nN\u0115qu\u0115 p\u016bgn\u014d, | n\u0115qu\u0115 s\u0113gn\u012b | p\u0115d\u0115 v\u012bct\u016bs,",
+        "multiple_choice_options": [],
+        "answers": [
+            "small ionic, small ionic, small ionic"
+        ]
+    },
+    {
+        "source_name": "exercises-in-latin-prosody",
+        "source_year": 1823,
+        "question_id": "prosody_app.I.6.2",
+        "question_format": "short_answer",
+        "question_content": "scansion",
+        "difficulty": "unknown",
+        "question_language": "english",
+        "answer_language": "english",
+        "question": "What is the name of each foot in the following line of poetry? Give your answer as a comma-separated list.\nSimul unctos | Tiberinis | humeros la|vit in undis",
+        "multiple_choice_options": [],
+        "answers": [
+            "small ionic, small ionic, small ionic, small ionic"
+        ]
+    },
+    {
+        "source_name": "exercises-in-latin-prosody",
+        "source_year": 1823,
+        "question_id": "prosody_app.I.6.3",
+        "question_format": "short_answer",
+        "question_content": "scansion",
+        "difficulty": "unknown",
+        "question_language": "english",
+        "answer_language": "english",
+        "question": "What is the name of each foot in the following line of poetry? Give your answer as a comma-separated list.\nH\u0101s c\u016bm g\u0115m\u012d|n\u0103 c\u014dmp\u0115d\u0115 | d\u0113d\u012dc\u0101t c\u0103|t\u0113nas",
+        "multiple_choice_options": [],
+        "answers": [
+            "great ionic, great ionic, dichoree, spondee"
+        ]
+    },
+    {
+        "source_name": "exercises-in-latin-prosody",
+        "source_year": 1823,
+        "question_id": "prosody_app.I.6.4",
+        "question_format": "short_answer",
+        "question_content": "scansion",
+        "difficulty": "unknown",
+        "question_language": "english",
+        "answer_language": "english",
+        "question": "What is the name of each foot in the following line of poetry? Give your answer as a comma-separated list.\nSaturne, ti|bi Zo\u00eflus | annulos pri|ores.\"",
+        "multiple_choice_options": [],
+        "answers": [
+            "great ionic, great ionic, dichoree, spondee"
+        ]
+    }
+]

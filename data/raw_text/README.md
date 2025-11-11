@@ -1,0 +1,3 @@
+This folder contains raw text of the two textbooks after OCR processing.
+
+The raw text for Certamen can be found as a Word doc [here](https://docs.google.com/document/d/1F9AMt7Hy7BqDJ23Q7_Lwy2YKfDWc4NwG/edit?usp=sharing&ouid=106574327601452428399&rtpof=true&sd=true), from [Certamen's website](https://www.njcl.org/NJCL-Convention/Convention-Contests/Certamen). We converted it to a text file using MS Word.

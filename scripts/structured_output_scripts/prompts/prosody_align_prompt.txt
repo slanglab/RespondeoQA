@@ -1,0 +1,5 @@
+I will give you a list of questions and their answer key. You should roughly separate the questions and answers into blocks and align the answers to their corresponding questions. If there are instructions on how to answer the question, or other information necessary to answer the question, put that in the question_instructions field.
+
+Questions: {}
+
+Answer key: {}
